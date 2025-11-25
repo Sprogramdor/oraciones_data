@@ -2,7 +2,7 @@
   "oraciones": [
     {
       "title": "Oración de la mañana",
-      "load": false,
+      "load": true,
       "uid": "oracion_1",
       "contenido": {
         "ops": [
@@ -12,7 +12,7 @@
     },
     {
       "title": "Oración a los Santos Ángeles",
-      "load": false,
+      "load": true,
       "uid": "oracion_2",
       "contenido": {
         "ops": [
@@ -22,7 +22,7 @@
     },
     {
       "title": "Oración por los enfermos",
-      "load": false,
+      "load": true,
       "uid": "oracion_3",
       "contenido": {
         "ops": [
@@ -32,3 +32,4 @@
     }
   ]
 }
+
