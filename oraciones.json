@@ -7,6 +7,14 @@
       { "insert": "Señor, te doy gracias por este nuevo día.\n" }
     ]
   },
+   {
+    "title": "Oración nueva ",
+    "load": true,
+    "uid": "oracion_1",
+    "contenido": [
+      { "insert": "Señor, te doy gracias por este nuevo día.\n" }
+    ]
+  },
   {
     "title": "Oración a los Santos Ángeles",
     "load": true,
@@ -24,3 +32,4 @@
     ]
   }
 ]
+
