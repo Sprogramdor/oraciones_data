@@ -3,30 +3,24 @@
     "title": "Oración de la mañana",
     "load": true,
     "uid": "oracion_1",
-    "contenido": {
-      "ops": [
-        { "insert": "Señor, te doy gracias por este nuevo día.\n" }
-      ]
-    }
+    "contenido": [
+      { "insert": "Señor, te doy gracias por este nuevo día.\n" }
+    ]
   },
   {
     "title": "Oración a los Santos Ángeles",
     "load": true,
     "uid": "oracion_2",
-    "contenido": {
-      "ops": [
-        { "insert": "Ángel de mi guarda, dulce compañía, no me desampares.\n" }
-      ]
-    }
+    "contenido": [
+      { "insert": "Ángel de mi guarda, dulce compañía, no me desampares.\n" }
+    ]
   },
   {
     "title": "Oración por los enfermos",
     "load": true,
     "uid": "oracion_3",
-    "contenido": {
-      "ops": [
-        { "insert": "Señor, te pido por la salud de quienes sufren.\n" }
-      ]
-    }
+    "contenido": [
+      { "insert": "Señor, te pido por la salud de quienes sufren.\n" }
+    ]
   }
 ]
