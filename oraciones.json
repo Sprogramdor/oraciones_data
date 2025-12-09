@@ -1,5 +1,13 @@
 [
   {
+    "title": "Oración de San Miguel Arcangel",
+    "load": true,
+    "uid": "oracion_w",
+    "contenido": [
+      { "insert": "Señor, te doy gracias por este nuevo día.\n" }
+    ]
+  },
+  {
     "title": "Oración de la mañana",
     "load": true,
     "uid": "oracion_1",
@@ -32,5 +40,6 @@
     ]
   }
 ]
+
 
 
