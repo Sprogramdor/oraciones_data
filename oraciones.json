@@ -4,15 +4,13 @@
     "load": true,
     "uid": "oracion_w",
     "contenido": [
-     
   { "insert": "Oración a San Miguel Arcángel\n", "attributes": { "bold": true } },
   { "insert": "\n" },
   { "insert": "San Miguel Arcángel, defiéndenos en la batalla. Sé nuestro amparo contra la perversidad y acechanzas del demonio.\n" },
   { "insert": "Que Dios manifieste sobre él su poder, es nuestra humilde súplica.\n" },
   { "insert": "Y tú, oh Príncipe de la Milicia Celestial, con el poder que Dios te ha conferido, arroja al infierno a Satanás y a los demás espíritus malignos que vagan por el mundo para la perdición de las almas.\n" },
   { "insert": "Amén.\n" }
-],
-    "contenidolatin": [
+], "contenidolatin": [
   { "insert": "Oratio ad Sanctum Michaëlem Archangelum\n", "attributes": { "bold": true } },
   { "insert": "\n" },
   { "insert": "Sancte Michaël Archangele, defende nos in proelio;\n" },
@@ -24,7 +22,6 @@
   { "insert": "divina virtute in infernum detrude.\n" },
   { "insert": "Amen.\n" }
 ]
-
   },
   {
     "title": "Oración de la mañana",
@@ -59,6 +56,7 @@
     ]
   }
 ]
+
 
 
 
