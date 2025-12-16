@@ -4,7 +4,7 @@
     "load": true,
     "uid": "oracion_w",
     "contenido": [
-     [
+     
   { "insert": "Oración a San Miguel Arcángel\n", "attributes": { "bold": true } },
   { "insert": "\n" },
   { "insert": "San Miguel Arcángel, defiéndenos en la batalla. Sé nuestro amparo contra la perversidad y acechanzas del demonio.\n" },
@@ -59,6 +59,7 @@
     ]
   }
 ]
+
 
 
 
