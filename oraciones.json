@@ -4,11 +4,27 @@
     "load": true,
     "uid": "oracion_w",
     "contenido": [
-      { "insert": "Señor, te doy gracias por este nuevo día.\n" }
-    ],
+     [
+  { "insert": "Oración a San Miguel Arcángel\n", "attributes": { "bold": true } },
+  { "insert": "\n" },
+  { "insert": "San Miguel Arcángel, defiéndenos en la batalla. Sé nuestro amparo contra la perversidad y acechanzas del demonio.\n" },
+  { "insert": "Que Dios manifieste sobre él su poder, es nuestra humilde súplica.\n" },
+  { "insert": "Y tú, oh Príncipe de la Milicia Celestial, con el poder que Dios te ha conferido, arroja al infierno a Satanás y a los demás espíritus malignos que vagan por el mundo para la perdición de las almas.\n" },
+  { "insert": "Amén.\n" }
+],
     "contenidolatin": [
-      { "insert": "Glória Patri, et Fílio, et Spirítui Sancto.\n Sicut erat in princípio, et nunc, et semper, et in saécula saeculórum. Amen.\n" }
-    ]
+  { "insert": "Oratio ad Sanctum Michaëlem Archangelum\n", "attributes": { "bold": true } },
+  { "insert": "\n" },
+  { "insert": "Sancte Michaël Archangele, defende nos in proelio;\n" },
+  { "insert": "contra nequitiam et insidias diaboli esto praesidium.\n" },
+  { "insert": "Imperet illi Deus, supplices deprecamur;\n" },
+  { "insert": "tuque, Princeps militiae caelestis,\n" },
+  { "insert": "Satanam aliosque spiritus malignos,\n" },
+  { "insert": "qui ad perditionem animarum pervagantur in mundo,\n" },
+  { "insert": "divina virtute in infernum detrude.\n" },
+  { "insert": "Amen.\n" }
+]
+
   },
   {
     "title": "Oración de la mañana",
@@ -43,6 +59,7 @@
     ]
   }
 ]
+
 
 
 
