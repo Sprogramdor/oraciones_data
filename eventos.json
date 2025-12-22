@@ -1,1 +1,257 @@
 
+{
+    [
+    {
+      "uid": "jan-01-madre-dios",
+      "titulo": "Santa María, Madre de Dios",
+      "descrip": "Solemnidad que celebra la maternidad divina de María sobre la naturaleza humana de Jesús. Es la fiesta mariana más antigua del rito romano y marca el inicio del año bajo su protección.",
+      "mes": "Enero",
+      "dia": 1
+    },
+    {
+      "uid": "jan-06-epifania",
+      "titulo": "Epifanía del Señor",
+      "descrip": "Conmemora la manifestación de Jesús a los pueblos paganos representados por los Reyes Magos. Simboliza que la salvación de Cristo está abierta a todas las naciones de la tierra sin distinción.",
+      "mes": "Enero",
+      "dia": 6
+    },
+    {
+      "uid": "jan-28-tomas-aquino",
+      "titulo": "Santo Tomás de Aquino",
+      "descrip": "Memoria del Doctor Angélico, patrono de las escuelas católicas. Fue el teólogo que mejor logró armonizar la fe con la razón, dejando como legado la monumental Suma Teológica.",
+      "mes": "Enero",
+      "dia": 28
+    },
+    {
+      "uid": "feb-02-candelaria",
+      "titulo": "Presentación del Señor",
+      "descrip": "Conocida como la Candelaria, celebra cuando Jesús fue llevado al Templo. Simeón lo proclama como la Luz del mundo, por lo que se bendicen velas que simbolizan la claridad de la fe.",
+      "mes": "Febrero",
+      "dia": 2
+    },
+    {
+      "uid": "feb-09-hermano-miguel",
+      "titulo": "San Miguel Febres Cordero",
+      "descrip": "Santo ecuatoriano nacido en Cuenca. Fue un eminente educador de los Hermanos de las Escuelas Cristianas (La Salle) y un gran académico de la lengua, dedicado a la formación de la niñez.",
+      "mes": "Febrero",
+      "dia": 9
+    },
+    {
+      "uid": "mov-miercoles-ceniza",
+      "titulo": "Miércoles de Ceniza",
+      "descrip": "Inicio del tiempo de Cuaresma. Se impone la ceniza como signo de humildad y deseo de conversión, recordándonos nuestra finitud y la llamada a vivir el Evangelio con mayor entrega.",
+      "mes": "Febrero",
+      "dia": 0
+    },
+    {
+      "uid": "mar-19-san-jose",
+      "titulo": "San José, Esposo de la Virgen",
+      "descrip": "Solemnidad del custodio de la Sagrada Familia y patrono universal de la Iglesia. Se honra al hombre justo que protegió la infancia de Jesús y es modelo de padre y trabajador.",
+      "mes": "Marzo",
+      "dia": 19
+    },
+    {
+      "uid": "mar-25-anunciacion",
+      "titulo": "La Anunciación del Señor",
+      "descrip": "Celebra el momento en que el Verbo de Dios se hizo carne en el seno de María tras el anuncio del ángel. Es el misterio de la Encarnación que da inicio a nuestra redención.",
+      "mes": "Marzo",
+      "dia": 25
+    },
+    {
+      "uid": "mov-domingo-ramos",
+      "titulo": "Domingo de Ramos",
+      "descrip": "Inicio de la Semana Santa. Conmemora la entrada triunfal de Jesús en Jerusalén, donde es aclamado con ramos de olivo y palmas como el Mesías enviado por Dios.",
+      "mes": "Abril",
+      "dia": 0
+    },
+    {
+      "uid": "mov-jueves-santo",
+      "titulo": "Jueves Santo",
+      "descrip": "Cena del Señor y lavatorio de pies. Se instituye la Eucaristía y el Sacerdocio, celebrando el mandamiento del amor fraterno antes de la Pasión de Cristo.",
+      "mes": "Abril",
+      "dia": 0
+    },
+    {
+      "uid": "mov-viernes-santo",
+      "titulo": "Viernes Santo",
+      "descrip": "Día de luto y ayuno en el que se recuerda la crucifixión y muerte de Jesús. En Ecuador destaca la multitudinaria procesión de Jesús del Gran Poder en Quito.",
+      "mes": "Abril",
+      "dia": 0
+    },
+    {
+      "uid": "mov-domingo-pascua",
+      "titulo": "Domingo de Resurrección",
+      "descrip": "La fiesta más grande de la cristiandad. Celebramos que Jesús venció a la muerte y salió glorioso del sepulcro, dándonos la esperanza cierta de la vida eterna y la resurrección.",
+      "mes": "Abril",
+      "dia": 0
+    },
+    {
+      "uid": "mov-divina-misericordia",
+      "titulo": "Domingo de la Divina Misericordia",
+      "descrip": "Celebrada el domingo siguiente a la Pascua. Se basa en las revelaciones de Santa Faustina Kowalska sobre el amor infinito de Dios que desea perdonar a toda la humanidad arrepentida.",
+      "mes": "Abril",
+      "dia": 0
+    },
+    {
+      "uid": "apr-20-dolorosa-colegio",
+      "titulo": "La Dolorosa del Colegio",
+      "descrip": "Devoción ecuatoriana que recuerda el milagro de 1906 en el Colegio San Gabriel de Quito, donde una imagen de la Virgen abrió y cerró los ojos ante estudiantes y profesores jesuitas.",
+      "mes": "Abril",
+      "dia": 20
+    },
+    {
+      "uid": "may-13-fatima",
+      "titulo": "Nuestra Señora de Fátima",
+      "descrip": "Aniversario de las apariciones de la Virgen en Portugal en 1917. Su mensaje es un llamado urgente a la oración del Rosario, la penitencia y la conversión para la paz mundial.",
+      "mes": "Mayo",
+      "dia": 13
+    },
+    {
+      "uid": "may-26-mariana-jesus",
+      "titulo": "Santa Mariana de Jesús",
+      "descrip": "La Azucena de Quito y primera santa de Ecuador. Ofreció su vida por el pueblo quiteño durante una época de terremotos y epidemias, destacando por su profunda vida mística y caridad.",
+      "mes": "Mayo",
+      "dia": 26
+    },
+    {
+      "uid": "mov-pentecostes",
+      "titulo": "Pentecostés",
+      "descrip": "Descenso del Espíritu Santo sobre los apóstoles y la Virgen María. Se considera el nacimiento de la Iglesia, cuando los discípulos reciben la fuerza para anunciar el Evangelio a todo el mundo.",
+      "mes": "Junio",
+      "dia": 0
+    },
+    {
+      "uid": "mov-corpus-christi",
+      "titulo": "Corpus Christi",
+      "descrip": "Solemnidad del Cuerpo y la Sangre de Cristo. En Ecuador se vive con gran colorido en Pujilí y Cuenca, donde se mezclan tradiciones religiosas con el agradecimiento por las cosechas.",
+      "mes": "Junio",
+      "dia": 0
+    },
+    {
+      "uid": "mov-sagrado-corazon",
+      "titulo": "Sagrado Corazón de Jesús",
+      "descrip": "Solemnidad que honra el corazón de Cristo como símbolo de su amor desbordante por la humanidad. Ecuador fue el primer país del mundo en consagrarse oficialmente a esta devoción.",
+      "mes": "Junio",
+      "dia": 0
+    },
+    {
+      "uid": "jun-24-juan-bautista",
+      "titulo": "Natividad de San Juan Bautista",
+      "descrip": "Nacimiento del precursor del Mesías. Juan es el puente entre los profetas y la llegada de Cristo, dedicando su vida a preparar los corazones para recibir al Cordero de Dios.",
+      "mes": "Junio",
+      "dia": 24
+    },
+    {
+      "uid": "jun-29-pedro-pablo",
+      "titulo": "Santos Pedro y Pablo",
+      "descrip": "Día del Papa y de los pilares de la fe. Pedro, la roca de la Iglesia, y Pablo, el gran apóstol misionero, sellaron con su sangre en Roma su fidelidad inquebrantable a Jesucristo.",
+      "mes": "Junio",
+      "dia": 29
+    },
+    {
+      "uid": "jul-16-virgen-carmen",
+      "titulo": "Nuestra Señora del Carmen",
+      "descrip": "Patrona de los marineros y de la Orden del Carmelo. Se celebra la entrega del Escapulario como signo de protección maternal y la promesa de intercesión en la hora de la muerte.",
+      "mes": "Julio",
+      "dia": 16
+    },
+    {
+      "uid": "jul-31-ignacio-loyola",
+      "titulo": "San Ignacio de Loyola",
+      "descrip": "Fundador de la Compañía de Jesús. Fue un valiente soldado que tras su conversión se hizo soldado de Cristo, creando los Ejercicios Espirituales para ayudar a las almas a buscar la voluntad de Dios.",
+      "mes": "Julio",
+      "dia": 31
+    },
+    {
+      "uid": "aug-15-asuncion",
+      "titulo": "Asunción de la Virgen María",
+      "descrip": "Solemnidad que proclama que María fue llevada al cielo en cuerpo y alma. Es la victoria final de la Madre de Dios y un signo de esperanza para todos los cristianos en la resurrección futura.",
+      "mes": "Agosto",
+      "dia": 15
+    },
+    {
+      "uid": "aug-15-virgen-cisne",
+      "titulo": "Nuestra Señora de El Cisne",
+      "descrip": "Advocación mariana más importante del sur de Ecuador (Loja). Su romería es una de las más grandes de Latinoamérica, movilizando a miles de fieles que caminan junto a 'La Churona'.",
+      "mes": "Agosto",
+      "dia": 15
+    },
+    {
+      "uid": "sep-08-natividad-maria",
+      "titulo": "Natividad de la Santísima Virgen María",
+      "descrip": "Celebramos el nacimiento de la mujer elegida para ser la Madre del Redentor. Su llegada al mundo trae la alegría de saber que la promesa de salvación está a punto de cumplirse.",
+      "mes": "Septiembre",
+      "dia": 8
+    },
+    {
+      "uid": "sep-24-virgen-merced",
+      "titulo": "Nuestra Señora de la Merced",
+      "descrip": "Patrona de las Fuerzas Armadas de Ecuador y de los encarcelados. Su nombre significa 'misericordia' y se le pide que libere a sus hijos de todas las esclavitudes físicas y espirituales.",
+      "mes": "Septiembre",
+      "dia": 24
+    },
+    {
+      "uid": "oct-04-francisco-asis",
+      "titulo": "San Francisco de Asís",
+      "descrip": "Fundador de los Franciscanos y amante de la creación. Vivió una pobreza radical y recibió los estigmas de Cristo, recordándonos que la verdadera riqueza está en el servicio y la humildad.",
+      "mes": "Octubre",
+      "dia": 4
+    },
+    {
+      "uid": "oct-31-narcisa-jesus",
+      "titulo": "Santa Narcisa de Jesús",
+      "descrip": "Santa ecuatoriana de Nobol. Llevó una vida de profunda oración y penitencia como laica, destacando por su caridad con los pobres y su gran amor por la Pasión de Cristo.",
+      "mes": "Octubre",
+      "dia": 31
+    },
+    {
+      "uid": "nov-01-todos-santos",
+      "titulo": "Todos los Santos",
+      "descrip": "Fiesta de la gran familia de Dios en el cielo. Honramos a los santos conocidos y a los anónimos que vivieron su fe con heroísmo, recordándonos que todos estamos llamados a la santidad.",
+      "mes": "Noviembre",
+      "dia": 1
+    },
+    {
+      "uid": "nov-02-fieles-difuntos",
+      "titulo": "Conmemoración de los Fieles Difuntos",
+      "descrip": "Día de oración por quienes han dejado este mundo. En Ecuador se une a la tradición de la colada morada y guaguas de pan, visitando los cementerios en un acto de fe y recuerdo familiar.",
+      "mes": "Noviembre",
+      "dia": 2
+    },
+    {
+      "uid": "nov-21-virgen-quinche",
+      "titulo": "Nuestra Señora de El Quinche",
+      "descrip": "Patrona de Ecuador y Reina de la Sierra. Su santuario cerca de Quito es el centro de una de las peregrinaciones más multitudinarias del país, donde se agradecen sus favores y milagros.",
+      "mes": "Noviembre",
+      "dia": 21
+    },
+    {
+      "uid": "mov-cristo-rey",
+      "titulo": "Cristo Rey del Universo",
+      "descrip": "Cierre del año litúrgico. Proclamamos el reinado de amor, justicia y paz de Jesús sobre toda la creación y en el corazón de cada creyente.",
+      "mes": "Noviembre",
+      "dia": 0
+    },
+    {
+      "uid": "dec-08-inmaculada",
+      "titulo": "La Inmaculada Concepción",
+      "descrip": "Dogma que afirma que María fue concebida sin mancha de pecado original. Dios la preparó desde el primer instante de su vida para ser la morada santa y purísima de su Hijo Jesús.",
+      "mes": "Diciembre",
+      "dia": 8
+    },
+    {
+      "uid": "dec-12-guadalupe",
+      "titulo": "Nuestra Señora de Guadalupe",
+      "descrip": "Patrona de América y de la evangelización. Su aparición en México al indio Juan Diego unió al viejo y nuevo mundo bajo el manto de una Madre que cuida con amor a todos sus hijos.",
+      "mes": "Diciembre",
+      "dia": 12
+    },
+    {
+      "uid": "dec-25-navidad",
+      "titulo": "Natividad del Señor",
+      "descrip": "El nacimiento del Hijo de Dios en la humildad del portal de Belén. Es la fiesta de la luz y el amor divino que se hace hombre para rescatar a la humanidad de la oscuridad y el pecado.",
+      "mes": "Diciembre",
+      "dia": 25
+    }
+  ]
+}
