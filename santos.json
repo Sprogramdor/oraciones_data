@@ -1,0 +1,20 @@
+[
+  {
+    "uid": "san_pio_pietrelcina",
+    "titulo": "San Pío de Pietrelcina",
+    "descrip": "Sacerdote capuchino italiano conocido como el Padre Pío, famoso por los estigmas y su profunda vida espiritual.",
+    "orden": "Orden de los Frailes Menores Capuchinos",
+    "patronazgo": "Confesores, voluntarios de la Cruz Roja, alivio del sufrimiento",
+    "mes": 9,
+    "dia": 23
+  },
+  {
+    "uid": "san_francisco_asis",
+    "titulo": "San Francisco de Asís",
+    "descrip": "Fundador de la Orden Franciscana, reconocido por su amor a la pobreza, la paz y la creación.",
+    "orden": "Orden de los Frailes Menores",
+    "patronazgo": "Ecología, animales, pobreza, Italia",
+    "mes": 10,
+    "dia": 4
+  }
+]
