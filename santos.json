@@ -6,7 +6,7 @@
     "orden": "Orden de los Frailes Menores Capuchinos",
     "patronazgo": "Confesores, voluntarios de la Cruz Roja, alivio del sufrimiento",
     "mes": 12,
-    "dia": 30
+    "dia": 31
   },
   {
     "uid": "san_francisco_asis",
@@ -15,6 +15,24 @@
     "orden": "Orden de los Frailes Menores",
     "patronazgo": "Ecología, animales, pobreza, Italia",
     "mes": 12,
-    "dia": 30
+    "dia": 31
+  },
+  {
+    "uid": "san_francisco_asis",
+    "titulo": "San Francisco de Asís San Francisco de Asís San Francisco de Asís",
+    "descrip": "Fundador de la Orden Franciscana, reconocido por su amor a la pobreza, la paz y la creación.",
+    "orden": "Orden de los Frailes Menores",
+    "patronazgo": "Ecología, animales, pobreza, Italia",
+    "mes": 12,
+    "dia": 31
+  },
+  {
+    "uid": "san_francisco_asis",
+    "titulo": "San Francisco de Asís San Francisco de Asís San Francisco de Asís",
+    "descrip": "Fundador de la Orden Franciscana, reconocido por su amor a la pobreza, la paz y la creación.",
+    "orden": "Orden de los Frailes Menores",
+    "patronazgo": "Ecología, animales, pobreza, Italia",
+    "mes": 12,
+    "dia": 31
   }
 ]
