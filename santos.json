@@ -1,6 +1,6 @@
 [
   {
-    "uid": "san_pio_pietrelcina",
+    "url": "https://devpegasus.helioho.st/imgsantos/padrePio.jpg",
     "titulo": "San Pío de Pietrelcina",
     "descrip": "Sacerdote capuchino italiano conocido como el Padre Pío, famoso por los estigmas y su profunda vida espiritual.",
     "orden": "Orden de los Frailes Menores Capuchinos",
@@ -9,25 +9,18 @@
     "dia": 31
   },
   {
-    "uid": "san_francisco_asis",
-    "titulo": "San Francisco de Asís San Francisco de Asís San Francisco de Asís",
+    "url": "https://devpegasus.helioho.st/imgsantos/sanfrancisco.jpeg",
+    "titulo": "San Francisco de Asís",
     "descrip": "Fundador de la Orden Franciscana, reconocido por su amor a la pobreza, la paz y la creación.",
     "orden": "Orden de los Frailes Menores",
     "patronazgo": "Ecología, animales, pobreza, Italia",
     "mes": 12,
     "dia": 31
   },
+  
+  
   {
-    "uid": "san_francisco_asis",
-    "titulo": "San Francisco de Asís San Francisco de Asís San Francisco de Asís",
-    "descrip": "Fundador de la Orden Franciscana, reconocido por su amor a la pobreza, la paz y la creación.",
-    "orden": "Orden de los Frailes Menores",
-    "patronazgo": "Ecología, animales, pobreza, Italia",
-    "mes": 12,
-    "dia": 31
-  },
-  {
-    "uid": "san_francisco_asis",
+    "url": "",
     "titulo": "San Francisco de Asís San Francisco de Asís San Francisco de Asís",
     "descrip": "Fundador de la Orden Franciscana, reconocido por su amor a la pobreza, la paz y la creación.",
     "orden": "Orden de los Frailes Menores",
