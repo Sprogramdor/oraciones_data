@@ -6,7 +6,7 @@
     "orden": "Orden de los Frailes Menores Capuchinos",
     "patronazgo": "Confesores, voluntarios de la Cruz Roja, alivio del sufrimiento",
     "mes": 1,
-    "dia": 3
+    "dia": 4
   },
   {
     "url": "https://devpegasus.helioho.st/imgsantos/sanfrancisco.jpeg",
@@ -15,9 +15,35 @@
     "orden": "Orden de los Frailes Menores",
     "patronazgo": "Ecología, animales, pobreza, Italia",
     "mes": 1,
-    "dia": 3
+    "dia": 5
   },
-  
+  {
+    "url": "https://devpegasus.helioho.st/imgsantos/sanfrancisco.jpeg",
+    "titulo": "San Francisco de Asís",
+    "descrip": "Fundador de la Orden Franciscana, reconocido por su amor a la pobreza, la paz y la creación.",
+    "orden": "Orden de los Frailes Menores",
+    "patronazgo": "Ecología, animales, pobreza, Italia",
+    "mes": 1,
+    "dia": 6
+  },
+  {
+    "url": "https://devpegasus.helioho.st/imgsantos/sanfrancisco.jpeg",
+    "titulo": "San Francisco de Asís",
+    "descrip": "Fundador de la Orden Franciscana, reconocido por su amor a la pobreza, la paz y la creación.",
+    "orden": "Orden de los Frailes Menores",
+    "patronazgo": "Ecología, animales, pobreza, Italia",
+    "mes": 1,
+    "dia": 7
+  },
+  {
+    "url": "https://devpegasus.helioho.st/imgsantos/sanfrancisco.jpeg",
+    "titulo": "San Francisco de Asís",
+    "descrip": "Fundador de la Orden Franciscana, reconocido por su amor a la pobreza, la paz y la creación.",
+    "orden": "Orden de los Frailes Menores",
+    "patronazgo": "Ecología, animales, pobreza, Italia",
+    "mes": 1,
+    "dia": 8
+  },
   
   {
     "url": "",
@@ -26,6 +52,6 @@
     "orden": "Orden de los Frailes Menores Orden de los Frailes Menores Orden de los Frailes Menores",
     "patronazgo": "Ecología, animales, pobreza, Italia,Ecología, animales, pobreza, Italia,Ecología, animales, pobreza, Italia",
     "mes": 1,
-    "dia": 3
+    "dia": 4
   }
 ]
