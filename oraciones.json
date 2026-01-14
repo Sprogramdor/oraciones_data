@@ -3,7 +3,7 @@
   {
     "title": "La Señal de la Santa Cruz ",
     "load": true,
-    "uid": "senal_cruz",
+    "uid": "s1",
     "recomendacion": "",
     "horario": "",
     "contenido": [
@@ -18,7 +18,7 @@
   {
     "title": "Padre Nuestro",
     "load": true,
-    "uid": "padre_nuestro",
+    "uid": "s4",
     "recomendacion": "",
     "horario": "",
     "contenido": [
@@ -33,7 +33,7 @@
   {
     "title": "Ave María",
     "load": true,
-    "uid": "ave_maria",
+    "uid": "s5",
     "recomendacion": "",
     "horario": "",
     "contenido": [
@@ -48,7 +48,7 @@
   {
     "title": "Credo de los Apóstoles",
     "load": true,
-    "uid": "credo_apostoles",
+    "uid": "s3",
     "recomendacion": "",
     "horario": "",
     "contenido": [
@@ -61,7 +61,7 @@
   {
     "title": "Acto de Contrición",
     "load": true,
-    "uid": "acto_contricion",
+    "uid": "s2",
     "recomendacion": "",
     "horario": "",
     "contenido": [
@@ -124,6 +124,7 @@
     ]
   }
 ]
+
 
 
 
