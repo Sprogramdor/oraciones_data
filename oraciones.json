@@ -1,4 +1,76 @@
 [
+
+  {
+    "title": "La Señal de la Cruz y Persignada",
+    "load": true,
+    "uid": "senal_cruz",
+    "recomendacion": "",
+    "horario": "",
+    "contenido": [
+      { "insert": "Por la señal de la Santa Cruz, de nuestros enemigos líbranos Señor, Dios nuestro.\n" },
+      { "insert": "En el nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n" }
+    ],
+    "contenidolatin": [
+      { "insert": "Per signum Sanctae Crucis de inimicis nostris libera nos, Domine Deus noster.\n" },
+      { "insert": "In nomine Patris, et Filii, et Spiritus Sancti. Amen.\n" }
+    ]
+  },
+  {
+    "title": "Padre Nuestro",
+    "load": true,
+    "uid": "padre_nuestro",
+    "recomendacion": "",
+    "horario": "",
+    "contenido": [
+      { "insert": "Padre nuestro, que estás en el cielo, santificado sea tu Nombre; venga a nosotros tu reino; hágase tu voluntad en la tierra como en el cielo.\n" },
+      { "insert": "Danos hoy nuestro pan de cada día; perdona nuestras ofensas, como también nosotros perdonamos a los que nos ofenden; no nos dejes caer en la tentación, y líbranos del mal. Amén.\n" }
+    ],
+    "contenidolatin": [
+      { "insert": "Pater noster, qui es in caelis, sanctificetur nomen tuum. Adveniat regnum tuum. Fiat voluntas tua, sicut in caelo et in terra.\n" },
+      { "insert": "Panem nostrum quotidianum da nobis hodie, et dimitte nobis debita nostra sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem, sed libera nos a malo. Amen.\n" }
+    ]
+  },
+  {
+    "title": "Ave María",
+    "load": true,
+    "uid": "ave_maria",
+    "recomendacion": "",
+    "horario": "",
+    "contenido": [
+      { "insert": "Dios te salve, María, llena eres de gracia; el Señor es contigo. Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.\n" },
+      { "insert": "Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte. Amén.\n" }
+    ],
+    "contenidolatin": [
+      { "insert": "Ave Maria, gratia plena, Dominus tecum. Benedicta tu in mulieribus, et benedictus fructus ventris tui, Iesus.\n" },
+      { "insert": "Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostrae. Amen.\n" }
+    ]
+  },
+  {
+    "title": "Credo de los Apóstoles",
+    "load": true,
+    "uid": "credo_apostoles",
+    "recomendacion": "",
+    "horario": "",
+    "contenido": [
+      { "insert": "Creo en Dios, Padre Todopoderoso, Creador del cielo y de la tierra. Creo en Jesucristo, su único Hijo, Nuestro Señor, que fue concebido por obra y gracia del Espíritu Santo, nació de Santa María Virgen...\n" }
+    ],
+    "contenidolatin": [
+      { "insert": "Credo in Deum Patrem omnipotentem, Creatorem caeli et terrae. Et in Iesum Christum, Filium eius unicum, Dominum nostrum, qui conceptus est de Spiritu Sancto, natus ex Maria Virgine...\n" }
+    ]
+  },
+  {
+    "title": "Acto de Contrición",
+    "load": true,
+    "uid": "acto_contricion",
+    "recomendacion": "",
+    "horario": "",
+    "contenido": [
+      { "insert": "¡Señor mío, Jesucristo!, Dios y hombre verdadero, Creador, Padre y Redentor mío; por ser Vos quien sois, Bondad infinita, y porque os amo sobre todas las cosas, me pesa de todo corazón de haberos ofendido...\n" }
+    ],
+    "contenidolatin": [
+      { "insert": "Deus meus, ex toto corde paenitet me omnium meorum peccatorum, eaque detestor, quia peccando, non solum poenas a te iuste statutas promeritus sum, sed praesertim quia offendi te...\n" }
+    ]
+  },
   {
     "title": "Oración de San Miguel Arcangel",
     "load": true,
@@ -52,6 +124,7 @@
     ]
   }
 ]
+
 
 
 
