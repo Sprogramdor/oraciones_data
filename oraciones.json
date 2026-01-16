@@ -1,4 +1,21 @@
 [
+{
+  "title": "Oración de Fátima",
+  "load": true,
+  "uid": "s6",
+  "recomendacion": "",
+  "horario": "",
+  "contenido": [
+    {
+      "insert": "¡Oh, mi Jesús! Perdónanos nuestros pecados, líbranos del fuego del Infierno, lleva al cielo a todas las almas, especialmente a las más necesitadas de tu misericordia.\n"
+    }
+  ],
+  "contenidolatin": [
+    {
+      "insert": "O mi Iesu, dimitte nobis debita nostra, libera nos ab igne inferni, conduc in caelum omnes animas, praesertim eas quae misericordiae tuae maxime indigent.\n"
+    }
+  ]
+},
 
   {
     "title": "La Señal de la Santa Cruz ",
@@ -124,6 +141,7 @@
     ]
   }
 ]
+
 
 
 
