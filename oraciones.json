@@ -1,4 +1,23 @@
 [
+
+  {
+  "title": "María, Madre de gracia",
+  "load": true,
+  "uid": "s8",
+  "recomendacion": "",
+  "horario": "",
+  "contenido": [
+    {
+      "insert": "María, Madre de gracia, Madre de misericordia. En la vida y en la muerte, ampáranos, gran Señora.\n"
+    }
+  ],
+  "contenidolatin": [
+    {
+      "insert": "Maria, Mater gratiae, Mater misericordiae. In vita et in morte, protege nos, magna Domina.\n"
+    }
+  ]
+},
+
   {
   "title": "Gloria",
   "load": true,
@@ -159,6 +178,7 @@
     ]
   }
 ]
+
 
 
 
