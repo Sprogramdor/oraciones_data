@@ -1,4 +1,22 @@
 [
+  {
+  "title": "Gloria",
+  "load": true,
+  "uid": "s7",
+  "recomendacion": "",
+  "horario": "",
+  "contenido": [
+    {
+      "insert": "Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.\n"
+    }
+  ],
+  "contenidolatin": [
+    {
+      "insert": "Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.\n"
+    }
+  ]
+}
+,
 {
   "title": "Oración de Fátima",
   "load": true,
@@ -141,6 +159,7 @@
     ]
   }
 ]
+
 
 
 
