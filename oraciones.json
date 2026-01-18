@@ -1,5 +1,23 @@
 [
   {
+  "title": "Por las intenciones del Santo Padre",
+  "load": true,
+  "uid": "s14",
+  "recomendacion": "A continuación se pide por las intenciones del Papa y de la Iglesia universal.",
+  "horario": "",
+  "contenido": [
+    {
+      "insert": "Por las intenciones del Santo Padre.\n\nPadre nuestro, que estás en el cielo, santificado sea tu Nombre; venga a nosotros tu reino; hágase tu voluntad en la tierra como en el cielo.\nDanos hoy nuestro pan de cada día; perdona nuestras ofensas como también nosotros perdonamos a los que nos ofenden; no nos dejes caer en la tentación y líbranos del mal. Amén.\n\nDios te salve, María, llena eres de gracia; el Señor es contigo; bendita Tú eres entre todas las mujeres y bendito es el fruto de tu vientre, Jesús.\nSanta María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte. Amén.\n\nGloria al Padre, y al Hijo, y al Espíritu Santo.\nComo era en el principio, ahora y siempre, por los siglos de los siglos. Amén.\n"
+    }
+  ],
+  "contenidolatin": [
+    {
+      "insert": "Pro intentionibus Summi Pontificis.\n\nPater noster, qui es in caelis, sanctificetur nomen tuum; adveniat regnum tuum; fiat voluntas tua, sicut in caelo et in terra.\nPanem nostrum quotidianum da nobis hodie; et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris; et ne nos inducas in tentationem; sed libera nos a malo. Amen.\n\nAve Maria, gratia plena, Dominus tecum; benedicta tu in mulieribus, et benedictus fructus ventris tui, Iesus.\nSancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostrae. Amen.\n\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.\n"
+    }
+  ]
+}
+,
+  {
   "title": "Letanías de la Santísima Virgen",
   "load": true,
   "uid": "s9",
@@ -267,6 +285,7 @@
     ]
   }
 ]
+
 
 
 
