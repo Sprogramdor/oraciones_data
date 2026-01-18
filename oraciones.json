@@ -134,11 +134,591 @@
     { "insert": "Ruega por nosotros.", "attributes": { "bold": true, "italic": true } },
     { "insert": "\n" }
   ],
-  "contenidolatin": [
-    {
-      "insert": "Kyrie, eleison.\nChriste, eleison.\nKyrie, eleison.\nChriste, audi nos.\nChriste, exaudi nos.\n\nPater de caelis, Deus.\nMiserere nobis.\nFili, Redemptor mundi, Deus.\nMiserere nobis.\nSpiritus Sancte, Deus.\nMiserere nobis.\nSancta Trinitas, unus Deus.\nMiserere nobis.\n\nSancta Maria,\nOra pro nobis.\nSancta Dei Genitrix,\nOra pro nobis.\nSancta Virgo virginum,\nOra pro nobis.\n\nMater Christi,\nOra pro nobis.\nMater Ecclesiae,\nOra pro nobis.\nMater misericordiae,\nOra pro nobis.\nMater divinae gratiae,\nOra pro nobis.\nMater spei,\nOra pro nobis.\nMater purissima,\nOra pro nobis.\nMater castissima,\nOra pro nobis.\nMater inviolata,\nOra pro nobis.\nMater intemerata,\nOra pro nobis.\nMater amabilis,\nOra pro nobis.\nMater admirabilis,\nOra pro nobis.\nMater boni consilii,\nOra pro nobis.\nMater Creatoris,\nOra pro nobis.\nMater Salvatoris,\nOra pro nobis.\n\nVirgo prudentissima,\nOra pro nobis.\nVirgo veneranda,\nOra pro nobis.\nVirgo praedicanda,\nOra pro nobis.\nVirgo potens,\nOra pro nobis.\nVirgo clemens,\nOra pro nobis.\nVirgo fidelis,\nOra pro nobis.\n\nSpeculum iustitiae,\nOra pro nobis.\nSedes sapientiae,\nOra pro nobis.\nCausa nostrae laetitiae,\nOra pro nobis.\nVas spirituale,\nOra pro nobis.\nVas honorabile,\nOra pro nobis.\nVas insigne devotionis,\nOra pro nobis.\nRosa mystica,\nOra pro nobis.\nTurris Davidica,\nOra pro nobis.\nTurris eburnea,\nOra pro nobis.\nDomus aurea,\nOra pro nobis.\nFoederis arca,\nOra pro nobis.\nIanua caeli,\nOra pro nobis.\nStella matutina,\nOra pro nobis.\n\nSalus infirmorum,\nOra pro nobis.\nRefugium peccatorum,\nOra pro nobis.\nConsolatrix migrantium,\nOra pro nobis.\nConsolatrix afflictorum,\nOra pro nobis.\nAuxilium Christianorum,\nOra pro nobis.\n\nRegina Angelorum,\nOra pro nobis.\nRegina Patriarcharum,\nOra pro nobis.\nRegina Prophetarum,\nOra pro nobis.\nRegina Apostolorum,\nOra pro nobis.\nRegina Martyrum,\nOra pro nobis.\nRegina Confessorum,\nOra pro nobis.\nRegina Virginum,\nOra pro nobis.\nRegina Sanctorum omnium,\nOra pro nobis.\nRegina sine labe originali concepta,\nOra pro nobis.\nRegina in caelum assumpta,\nOra pro nobis.\nRegina Sacratissimi Rosarii,\nOra pro nobis.\nRegina familiae,\nOra pro nobis.\nRegina pacis,\nOra pro nobis.\n"
-    }
-  ]
+ "contenidolatin": [
+  {
+    "insert": "Kyrie, eleison.\nChriste, eleison.\nKyrie, eleison.\nChriste, audi nos.\nChriste, exaudi nos.\n\nPater de caelis, Deus.\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Miserere nobis."
+  },
+  {
+    "insert": "\nFili, Redemptor mundi, Deus.\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Miserere nobis."
+  },
+  {
+    "insert": "\nSpiritus Sancte, Deus.\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Miserere nobis."
+  },
+  {
+    "insert": "\nSancta Trinitas, unus Deus.\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Miserere nobis."
+  },
+  {
+    "insert": "\n\nSancta Maria,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nSancta Dei Genitrix,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nSancta Virgo virginum,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\n\nMater Christi,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nMater Ecclesiae,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nMater misericordiae,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nMater divinae gratiae,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nMater spei,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nMater purissima,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nMater castissima,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nMater inviolata,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nMater intemerata,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nMater amabilis,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nMater admirabilis,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nMater boni consilii,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nMater Creatoris,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nMater Salvatoris,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\n\nVirgo prudentissima,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nVirgo veneranda,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nVirgo praedicanda,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nVirgo potens,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nVirgo clemens,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nVirgo fidelis,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\n\nSpeculum iustitiae,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nSedes sapientiae,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nCausa nostrae laetitiae,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nVas spirituale,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nVas honorabile,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nVas insigne devotionis,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nRosa mystica,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nTurris Davidica,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nTurris eburnea,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nDomus aurea,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nFoederis arca,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nIanua caeli,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nStella matutina,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\n\nSalus infirmorum,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nRefugium peccatorum,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nConsolatrix migrantium,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nConsolatrix afflictorum,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nAuxilium Christianorum,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\n\nRegina Angelorum,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nRegina Patriarcharum,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nRegina Prophetarum,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nRegina Apostolorum,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nRegina Martyrum,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nRegina Confessorum,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nRegina Virginum,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nRegina Sanctorum omnium,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nRegina sine labe originali concepta,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nRegina in caelum assumpta,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nRegina Sacratissimi Rosarii,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nRegina familiae,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\nRegina pacis,\n"
+  },
+  {
+    "attributes": {
+      "bold": true,
+      "italic": true
+    },
+    "insert": "Ora pro nobis."
+  },
+  {
+    "insert": "\n"
+  }
+]
 }
 ,
   {
@@ -391,6 +971,7 @@
     ]
   }
 ]
+
 
 
 
