@@ -1,5 +1,22 @@
 [
-  
+  {
+  "title": "Ave María Purísima (Jaculatoria)",
+  "load": true,
+  "uid": "s13",
+  "recomendacion": "Se usa como saludo, inicio o cierre de oración, confesión y devoción mariana.",
+  "horario": "",
+  "contenido": [
+    {
+      "insert": "Ave María Purísima.\nSin pecado concebida.\n"
+    }
+  ],
+  "contenidolatin": [
+    {
+      "insert": "Ave Maria Purissima.\nSine labe concepta.\n"
+    }
+  ]
+}
+,
 {
   "title": "Salve Regina",
   "load": true,
@@ -232,6 +249,7 @@
     ]
   }
 ]
+
 
 
 
