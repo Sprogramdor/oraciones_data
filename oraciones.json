@@ -1,5 +1,59 @@
 [
-
+  
+{
+  "title": "Salve Regina",
+  "load": true,
+  "uid": "s12",
+  "recomendacion": "",
+  "horario": "",
+  "contenido": [
+    {
+      "insert": "Dios te salve, Reina y Madre de misericordia, vida, dulzura y esperanza nuestra; Dios te salve. A Ti llamamos los desterrados hijos de Eva; a Ti suspiramos, gimiendo y llorando, en este valle de lágrimas. Ea, pues, Señora, abogada nuestra, vuelve a nosotros esos tus ojos misericordiosos; y después de este destierro muéstranos a Jesús, fruto bendito de tu vientre. ¡Oh clementísima, oh piadosa, oh dulce Virgen María!\n\nRuega por nosotros, Santa Madre de Dios.\nPara que seamos dignos de alcanzar las promesas de Nuestro Señor Jesucristo. Amén.\n"
+    }
+  ],
+  "contenidolatin": [
+    {
+      "insert": "Salve, Regina, mater misericordiae, vita, dulcedo et spes nostra, salve. Ad te clamamus exsules filii Evae, ad te suspiramus gementes et flentes in hac lacrimarum valle. Eia ergo, advocata nostra, illos tuos misericordes oculos ad nos converte; et Iesum, benedictum fructum ventris tui, nobis post hoc exsilium ostende. O clemens, o pia, o dulcis Virgo Maria!\n\nOra pro nobis, Sancta Dei Genitrix.\nUt digni efficiamur promissionibus Christi. Amen.\n"
+    }
+  ]
+}
+,
+  {
+  "title": "Oración",
+  "load": true,
+  "uid": "s11",
+  "recomendacion": "",
+  "horario": "",
+  "contenido": [
+    {
+      "insert": "Te pedimos, Señor, nos concedas a nosotros tus siervos gozar de perpetua salud de alma y cuerpo, y por la gloriosa intercesión de la bienaventurada siempre Virgen María, seamos librados de las tristezas presentes y gocemos de la eterna alegría. Por Jesucristo, nuestro Señor. Amén.\n"
+    }
+  ],
+  "contenidolatin": [
+    {
+      "insert": "Concede nos famulos tuos, quaesumus, Domine Deus, perpetua mentis et corporis sanitate gaudere; et gloriosa beatae Mariae semper Virginis intercessione, a praesenti liberari tristitia et aeterna perfrui laetitia. Per Christum Dominum nostrum. Amen.\n"
+    }
+  ]
+}
+,
+{
+  "title": "Cordero de Dios",
+  "load": true,
+  "uid": "s10",
+  "recomendacion": "",
+  "horario": "",
+  "contenido": [
+    {
+      "insert": "Cordero de Dios, que quitas el pecado del mundo.\nPerdónanos, Señor.\nCordero de Dios, que quitas el pecado del mundo.\nEscúchanos, Señor.\nCordero de Dios, que quitas el pecado del mundo.\nTen piedad de nosotros.\n\nRuega por nosotros, Santa Madre de Dios.\nPara que seamos dignos de alcanzar las promesas de Nuestro Señor Jesucristo. Amén.\n"
+    }
+  ],
+  "contenidolatin": [
+    {
+      "insert": "Agnus Dei, qui tollis peccata mundi.\nParce nobis, Domine.\nAgnus Dei, qui tollis peccata mundi.\nExaudi nos, Domine.\nAgnus Dei, qui tollis peccata mundi.\nMiserere nobis.\n\nOra pro nobis, Sancta Dei Genitrix.\nUt digni efficiamur promissionibus Christi. Amen.\n"
+    }
+  ]
+}
+,
   {
   "title": "María, Madre de gracia",
   "load": true,
@@ -178,6 +232,7 @@
     ]
   }
 ]
+
 
 
 
