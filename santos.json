@@ -8,6 +8,15 @@
     "mes": 1,
     "dia": 5
   },
+    {
+    "url": "https://devpegasus.helioho.st/imgsantos/padrePio.jpg",
+    "titulo": "San Pío de Pietrelcina",
+    "descrip": "Sacerdote capuchino italiano conocido como el Padre Pío, famoso por los estigmas y su profunda vida espiritual.",
+    "orden": "Orden de los Frailes Menores Capuchinos",
+    "patronazgo": "Confesores, voluntarios de la Cruz Roja, alivio del sufrimiento",
+    "mes": 1,
+    "dia": 25
+  },
   {
     "url": "https://devpegasus.helioho.st/imgsantos/sanfrancisco.jpeg",
     "titulo": "San Francisco de Asís",
