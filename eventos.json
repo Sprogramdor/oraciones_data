@@ -20,20 +20,10 @@
       "mes": "Enero",
       "dia": 28
     },
-    {
-      "uid": "jan-28-tomas-aquino",
-      "titulo": "Natividad de la Santísima Virgen María",
-      "descrip": "Memoria del Doctor Angélico, patrono de las escuelas católicas. Fue el teólogo que mejor logró armonizar la fe con la razón, dejando como legado la monumental Suma Teológica.",
-      "mes": "Enero",
-      "dia": 25
-    },
-    {
-      "uid": "jan-28-tomas-aquino",
-      "titulo": "Santo Tomás de Aquino",
-      "descrip": "Memoria del Doctor Angélico, patrono de las escuelas católicas. Fue el teólogo que mejor logró armonizar la fe con la razón, dejando como legado la monumental Suma Teológica.",
-      "mes": "Enero",
-      "dia": 26
-    },
+   
+    
+   
+    
     {
       "uid": "feb-02-candelaria",
       "titulo": "Presentación del Señor",
