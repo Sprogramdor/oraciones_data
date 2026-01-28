@@ -7,16 +7,16 @@
     "imag": "assets/images/mandamientos.png",
     "contenido": "Son las 'diez palabras' que Dios reveló a su pueblo en la montaña santa. Expresan las implicaciones del amor a Dios y al prójimo.",
     "listado": [
-      "1. Amarás a Dios sobre todas las cosas.",
-      "2. No tomarás el nombre de Dios en vano.",
-      "3. Santificarás las fiestas.",
-      "4. Honrarás a tu padre y a tu madre.",
-      "5. No matarás.",
-      "6. No cometerás actos impuros.",
-      "7. No robarás.",
-      "8. No dirás falso testimonio ni mentirás.",
-      "9. No consentirás pensamientos ni deseos impuros.",
-      "10. No codiciarás los bienes ajenos."
+      "Amarás a Dios sobre todas las cosas.",
+      "No tomarás el nombre de Dios en vano.",
+      "Santificarás las fiestas.",
+      "Honrarás a tu padre y a tu madre.",
+      "No matarás.",
+      "No cometerás actos impuros.",
+      "No robarás.",
+      "No dirás falso testimonio ni mentirás.",
+      "No consentirás pensamientos ni deseos impuros.",
+      "No codiciarás los bienes ajenos."
     ]
   },
   {
@@ -27,13 +27,13 @@
     "imag": "assets/images/sacramentos.png",
     "contenido": "Los sacramentos son acciones de Dios con las que nos muestra el amor que tiene por sus hijos. Fueron instituidos por Cristo y confiados a la Iglesia.",
     "listado": [
-      "1. Bautismo",
-      "2. Confirmación",
-      "3. Eucaristía",
-      "4. Penitencia (Confesión)",
-      "5. Unción de los enfermos",
-      "6. Orden Sacerdotal",
-      "7. Matrimonio"
+      "Bautismo",
+      "Confirmación",
+      "Eucaristía",
+      "Penitencia (Confesión)",
+      "Unción de los enfermos",
+      "Orden Sacerdotal",
+      "Matrimonio"
     ]
   },
   {
@@ -60,13 +60,13 @@
     "imag": "assets/images/pecados.png",
     "contenido": "Se llaman capitales porque generan otros pecados y otros vicios. Son inclinaciones del alma que nos alejan del amor de Dios.",
     "listado": [
-      "1. Soberbia",
-      "2. Avaricia",
-      "3. Lujuria",
-      "4. Ira",
-      "5. Gula",
-      "6. Envidia",
-      "7. Pereza"
+      "Soberbia",
+      "Avaricia",
+      "Lujuria",
+      "Ira",
+      "Gula",
+      "Envidia",
+      "Pereza"
     ]
   }
 ]
