@@ -744,7 +744,7 @@
   "load": true,
   "uid": "s12",
   "recomendacion": "",
-  "horario": "8:37",
+  "horario": "12:00",
   "contenido": [
     {
       "insert": "Dios te salve, Reina y Madre de misericordia, vida, dulzura y esperanza nuestra; Dios te salve. A Ti llamamos los desterrados hijos de Eva; a Ti suspiramos, gimiendo y llorando, en este valle de lágrimas. Ea, pues, Señora, abogada nuestra, vuelve a nosotros esos tus ojos misericordiosos; y después de este destierro muéstranos a Jesús, fruto bendito de tu vientre. ¡Oh clementísima, oh piadosa, oh dulce Virgen María!\n\nRuega por nosotros, Santa Madre de Dios.\nPara que seamos dignos de alcanzar las promesas de Nuestro Señor Jesucristo. Amén.\n"
@@ -762,7 +762,7 @@
   "load": true,
   "uid": "s11",
   "recomendacion": "",
-  "horario": "",
+  "horario": "10:00",
   "contenido": [
     {
       "insert": "Te pedimos, Señor, nos concedas a nosotros tus siervos gozar de perpetua salud de alma y cuerpo, y por la gloriosa intercesión de la bienaventurada siempre Virgen María, seamos librados de las tristezas presentes y gocemos de la eterna alegría. Por Jesucristo, nuestro Señor. Amén.\n"
@@ -798,7 +798,7 @@
   "load": true,
   "uid": "s8",
   "recomendacion": "",
-  "horario": "",
+  "horario": "8:00",
   "contenido": [
     {
       "insert": "María, Madre de gracia, Madre de misericordia. En la vida y en la muerte, ampáranos, gran Señora.\n"
@@ -816,7 +816,7 @@
   "load": true,
   "uid": "s7",
   "recomendacion": "",
-  "horario": "9:05",
+  "horario": "11:05",
   "contenido": [
     {
       "insert": "Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.\n"
@@ -834,7 +834,7 @@
   "load": true,
   "uid": "s6",
   "recomendacion": "",
-  "horario": "9:00",
+  "horario": "13:00",
   "contenido": [
     {
       "insert": "¡Oh, mi Jesús! Perdónanos nuestros pecados, líbranos del fuego del Infierno, lleva al cielo a todas las almas, especialmente a las más necesitadas de tu misericordia.\n"
@@ -971,6 +971,7 @@
     ]
   }
 ]
+
 
 
 
