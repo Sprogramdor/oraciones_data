@@ -726,7 +726,7 @@
   "load": true,
   "uid": "s13",
   "recomendacion": "Se usa como saludo, inicio o cierre de oración, confesión y devoción mariana.",
-  "horario": "",
+  "horario": "14:20",
   "contenido": [
     {
       "insert": "Ave María Purísima.\nSin pecado concebida.\n"
@@ -971,6 +971,7 @@
     ]
   }
 ]
+
 
 
 
