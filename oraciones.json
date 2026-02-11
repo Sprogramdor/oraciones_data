@@ -893,35 +893,45 @@
     ]
   },
   {
-    "title": "Credo de los Apóstoles",
-    "load": true,
-    "uid": "s3",
-    "recomendacion": "",
-    "horario": "",
-    "contenido": [
-      { "insert": "Creo en Dios, Padre Todopoderoso, Creador del cielo y de la tierra. Creo en Jesucristo, su único Hijo, Nuestro Señor, que fue concebido por obra y gracia del Espíritu Santo, nació de Santa María Virgen...\n" }
-    ],
-    "contenidolatin": [
-      { "insert": "Credo in Deum Patrem omnipotentem, Creatorem caeli et terrae. Et in Iesum Christum, Filium eius unicum, Dominum nostrum, qui conceptus est de Spiritu Sancto, natus ex Maria Virgine...\n" }
-    ]
-  },
+  "title": "Credo de los Apóstoles",
+  "load": true,
+  "uid": "s3",
+  "recomendacion": "",
+  "horario": "",
+  "contenido": [
+    {
+      "insert": "Creo en Dios, Padre todopoderoso, Creador del cielo y de la tierra.\nCreo en Jesucristo, su único Hijo, nuestro Señor;\nque fue concebido por obra y gracia del Espíritu Santo;\nnació de Santa María Virgen;\npadeció bajo el poder de Poncio Pilato;\nfue crucificado, muerto y sepultado;\ndescendió a los infiernos;\nal tercer día resucitó de entre los muertos;\nsubió a los cielos y está sentado a la derecha de Dios Padre todopoderoso;\ndesde allí ha de venir a juzgar a vivos y muertos.\nCreo en el Espíritu Santo;\nla santa Iglesia católica;\nla comunión de los santos;\nel perdón de los pecados;\nla resurrección de la carne;\ny la vida eterna.\nAmén.\n"
+    }
+  ],
+  "contenidolatin": [
+    {
+      "insert": "Credo in Deum, Patrem omnipotentem, Creatorem caeli et terrae.\nEt in Iesum Christum, Filium eius unicum, Dominum nostrum;\nqui conceptus est de Spiritu Sancto,\nnatus ex Maria Virgine;\npassus sub Pontio Pilato,\ncrucifixus, mortuus, et sepultus;\ndescendit ad inferos;\ntertia die resurrexit a mortuis;\nascendit ad caelos,\nsedet ad dexteram Dei Patris omnipotentis;\ninde venturus est iudicare vivos et mortuos.\nCredo in Spiritum Sanctum;\nsanctam Ecclesiam catholicam;\nsanctorum communionem;\nremissionem peccatorum;\ncarnis resurrectionem;\nvitam aeternam.\nAmen.\n"
+    }
+  ]
+}
+,
   {
-    "title": "Acto de Contrición",
-    "load": true,
-    "uid": "s2",
-    "recomendacion": "",
-    "horario": "",
-    "contenido": [
-      { "insert": "¡Señor mío, Jesucristo!, Dios y hombre verdadero, Creador, Padre y Redentor mío; por ser Vos quien sois, Bondad infinita, y porque os amo sobre todas las cosas, me pesa de todo corazón de haberos ofendido...\n" }
-    ],
-    "contenidolatin": [
-      { "insert": "Deus meus, ex toto corde paenitet me omnium meorum peccatorum, eaque detestor, quia peccando, non solum poenas a te iuste statutas promeritus sum, sed praesertim quia offendi te...\n" }
-    ]
-  },
+  "title": "Acto de Contrición",
+  "load": true,
+  "uid": "s2",
+  "recomendacion": "",
+  "horario": "",
+  "contenido": [
+    {
+      "insert": "¡Señor mío, Jesucristo!, Dios y hombre verdadero, Creador, Padre y Redentor mío;\npor ser Vos quien sois, Bondad infinita, y porque os amo sobre todas las cosas,\nme pesa de todo corazón de haberos ofendido;\ntambién me pesa porque podéis castigarme con las penas del infierno.\nPropongo firmemente, ayudado de vuestra divina gracia,\nenmendarme y no volver a pecar,\nconfesarme y cumplir la penitencia que me fuere impuesta.\nAmén.\n"
+    }
+  ],
+  "contenidolatin": [
+    {
+      "insert": "Deus meus, ex toto corde paenitet me omnium meorum peccatorum, eaque detestor,\nquia peccando non solum poenas a te iuste statutas promeritus sum,\nsed praesertim quia offendi te, summum bonum, ac dignum qui super omnia diligaris.\nIdeo firmiter propono, adiuvante gratia tua,\nde cetero me non peccaturum\npeccandique occasiones proximas fugiturum.\nAmen.\n"
+    }
+  ]
+}
+,
   {
     "title": "Oración de San Miguel Arcangel",
     "load": true,
-    "uid": "oracion_w",
+    "uid": "oracion_SMA",
     "contenido": [
   { "insert": "San Miguel Arcángel, defiéndenos en la batalla. Sé nuestro amparo contra la perversidad y acechanzas del demonio.\n" },
   { "insert": "Que Dios manifieste sobre él su poder, es nuestra humilde súplica.\n" },
@@ -971,6 +981,7 @@
     ]
   }
 ]
+
 
 
 
