@@ -1,5 +1,22 @@
 [
   {
+  "title": "Cruz de San Benito",
+  "load": true,
+  "uid": "s16",
+  "recomendacion": "La oración de la Cruz de San Benito está asociada a la Medalla de San Benito y es tradicionalmente utilizada como oración de protección contra el mal.",
+  "horario": "",
+  "contenido": [
+    {
+      "insert": "La Santa Cruz sea mi luz,\nno sea el demonio mi guía.\n¡Apártate, Satanás!\nNo me aconsejes cosas vanas.\nEs malo lo que tú me ofreces,\nbebe tú mismo tu veneno.\nAmén.\n"
+    }
+  ],
+  "contenidolatin": [
+    {
+      "insert": "Crux sacra sit mihi lux,\nnon draco sit mihi dux.\nVade retro, Satana;\nnumquam suade mihi vana.\nSunt mala quae libas;\nipse venena bibas.\nAmen.\n"
+    }
+  ]
+},
+  {
   "title": "Acordaos",
   "load": true,
   "uid": "s15",
@@ -998,6 +1015,7 @@
     ]
   }
 ]
+
 
 
 
