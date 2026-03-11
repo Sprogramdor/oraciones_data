@@ -23,9 +23,9 @@
   "recomendacion": "Puede rezarse cuando las cosas se ponen difíciles o cuando se desea pedir una gracia (favor) concreta a la Virgen María.\nPersonalmente, se recomienda rezarla después de cada misterio del Rosario, como una forma de presentar con confianza cada intención.",
   "horario": "",
   "contenido": [
-    {
-      "insert": "Acordaos, ¡oh piadosísima Virgen María!, que jamás se ha oído decir que ninguno de los que han acudido a vuestra protección, implorado vuestro auxilio o reclamado vuestro socorro, haya sido abandonado de Vos.\nAnimado con esta confianza, a Vos acudo, oh Madre, Virgen de las vírgenes; y aunque gimiendo bajo el peso de mis pecados, me atrevo a comparecer ante Vos. \nNo desechéis, oh Madre de Dios, mis humildes súplicas, antes bien, escuchadlas y acogedlas benignamente. Amén.\n"
-    }
+   {
+  "insert": "Acordaos, ¡oh piadosísima Virgen María!, que jamás se ha oído decir que ninguno de los que han acudido a tu protección, implorado tu asistencia o reclamado tu socorro, haya sido abandonado por ti.\n\nAnimado con esta confianza, a ti también acudo, ¡oh Madre!, Virgen de las vírgenes; y aunque gimiendo bajo el peso de mis pecados, me atrevo a comparecer ante tu presencia soberana.\n\nNo deseches, oh Madre de Dios, mis humildes súplicas; antes bien, escúchalas y acógelas benignamente. Amén.\n"
+}
   ],
   "contenidolatin": [
     {
@@ -763,12 +763,13 @@
   "horario": "14:20",
   "contenido": [
     {
-      "insert": "Ave María Purísima.\nSin pecado concebida.\n"
+     "insert": "Ave María Purísima.\nSin pecado concebida.\n\nGloria al Padre, y al Hijo, y al Espíritu Santo.\nComo era en el principio, ahora y siempre, por los siglos de los siglos. Amén.\n"
+  }
     }
   ],
   "contenidolatin": [
     {
-      "insert": "Ave Maria Purissima.\nSine labe concepta.\n"
+     "insert": "Ave Maria Purissima.\nSine labe concepta.\n\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.\n"
     }
   ]
 }
@@ -1015,6 +1016,7 @@
     ]
   }
 ]
+
 
 
 
