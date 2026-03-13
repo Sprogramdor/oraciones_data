@@ -983,38 +983,1202 @@
   { "insert": "Amen.\n" }
 ]
   },
-  {
-    "title": "Oración de la mañana",
-    "load": true,
-    "uid": "oracion_1",
-    "contenido": [
-      { "insert": "Señor, te doy gracias por este nuevo día.\n" }
-    ]
-  },
-   {
-    "title": "Oración nueva 2.0 ",
-    "load": true,
-    "uid": "oracion_1",
-    "contenido": [
-      { "insert": "Señor, te doy gracias por este nuevo día.\n" }
-    ]
-  },
-  {
-    "title": "Oración a los Santos Ángeles",
-    "load": true,
-    "uid": "oracion_2",
-    "contenido": [
-      { "insert": "Ángel de mi guarda, dulce compañía, no me desampares.\n" }
-    ]
-  },
-  {
-    "title": "Oración por los enfermos",
-    "load": true,
-    "uid": "oracion_3",
-    "contenido": [
-      { "insert": "Señor, te pido por la salud de quienes sufren.\n" }
-    ]
-  }
+    {
+  "title": "Oración al Ángel de la Guarda",
+  "load": true,
+  "uid": "oracion_angel_guarda",
+  "contenido": [
+    { "insert": "Ángel de Dios, que eres mi custodio, pues la bondad divina me encomendó a ti,\n" },
+    { "insert": "ilumíname, guárdame, rígenos y gobiérname en este día.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Angele Dei, qui custos es mei, me, tibi commissum pietate superna,\n" },
+    { "insert": "illumina, custodi, rege et guberna.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Alma de Cristo",
+  "load": true,
+  "uid": "oracion_anima_christi",
+  "contenido": [
+    { "insert": "Alma de Cristo, santifícame. Cuerpo de Cristo, sálvame.\n" },
+    { "insert": "Sangre de Cristo, embriágame. Agua del costado de Cristo, lávame.\n" },
+    { "insert": "Pasión de Cristo, confórtame. ¡Oh, buen Jesús!, óyeme.\n" },
+    { "insert": "Dentro de tus llagas, escóndeme. No permitas que me aparte de Ti.\n" },
+    { "insert": "Del enemigo malo, defiéndeme. En la hora de mi muerte, llámame.\n" },
+    { "insert": "Y mándame ir a Ti, para que con tus santos te alabe,\n" },
+    { "insert": "por los siglos de los siglos. Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Anima Christi, sanctifica me. Corpus Christi, salva me.\n" },
+    { "insert": "Sanguis Christi, inebria me. Aqua lateris Christi, lava me.\n" },
+    { "insert": "Passio Christi, conforta me. O bone Iesu, exaudi me.\n" },
+    { "insert": "Intra tua vulnera absconde me. Ne permittas me separari a te.\n" },
+    { "insert": "Ab hoste maligno defende me. In hora mortis meae voca me.\n" },
+    { "insert": "Et iube me venire ad te, ut cum Sanctis tuis laudem te\n" },
+    { "insert": "in saecula saeculorum. Amen.\n" }
+  ]
+},
+{
+  "title": "Ven Espíritu Santo",
+  "load": true,
+  "uid": "oracion_veni_creator",
+  "contenido": [
+    { "insert": "Ven, Espíritu Creador, visita las almas de tus fieles\n" },
+    { "insert": "y llena con tu divina gracia los corazones que Tú mismo creaste.\n" },
+    { "insert": "Tú eres nuestro Consolador, don de Dios Altísimo,\n" },
+    { "insert": "fuente viva, fuego, caridad y espiritual unción.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Veni, Creator Spiritus, mentes tuorum visita,\n" },
+    { "insert": "imple superna gratia, quae tu creasti pectora.\n" },
+    { "insert": "Qui diceris Paraclitus, donum Dei altissimi,\n" },
+    { "insert": "fons vivus, ignis, caritas, et spiritalis unctio.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Magnificat",
+  "load": true,
+  "uid": "oracion_magnificat",
+  "contenido": [
+    { "insert": "Proclama mi alma la grandeza del Señor, se alegra mi espíritu en Dios, mi Salvador;\n" },
+    { "insert": "porque ha mirado la humillación de su esclava. Desde ahora me felicitarán todas las generaciones,\n" },
+    { "insert": "porque el Poderoso ha hecho obras grandes por mí: su nombre es santo.\n" },
+    { "insert": "Su misericordia llega a sus fieles de generación en generación.\n" },
+    { "insert": "Él hace proezas con su brazo: dispersa a los soberbios de corazón,\n" },
+    { "insert": "derriba del trono a los poderosos y enaltece a los humildes.\n" },
+    { "insert": "A los hambrientos los colma de bienes y a los ricos los despide vacíos.\n" },
+    { "insert": "Socorre a Israel, su siervo, acordándose de la misericordia,\n" },
+    { "insert": "como lo había prometido a nuestros padres, en favor de Abrahán y su descendencia por siempre.\n" },
+    { "insert": "Gloria al Padre, y al Hijo, y al Espíritu Santo. Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Magnificat anima mea Dominum, et exultavit spiritus meus in Deo salvatore meo;\n" },
+    { "insert": "quia respexit humilitatem ancillae suae. Ecce enim ex hoc beatam me dicent omnes generationes,\n" },
+    { "insert": "quia fecit mihi magna, qui potens est, et sanctum nomen eius.\n" },
+    { "insert": "Et misericordia eius in progenies et progenies timentibus eum.\n" },
+    { "insert": "Fecit potentiam in brachio suo, dispersit superbos mente cordis sui;\n" },
+    { "insert": "deposuit potentes de sede et exaltavit humiles.\n" },
+    { "insert": "Esurientes implevit bonis et divites dimisit inanes.\n" },
+    { "insert": "Suscepit Israel puerum suum, recordatus misericordiae,\n" },
+    { "insert": "sicut locutus est ad patres nostros, Abraham et semini eius in saecula.\n" },
+    { "insert": "Gloria Patri, et Filio, et Spiritui Sancto. Amen.\n" }
+  ]
+},
+{
+  "title": "Adoro Te Devote",
+  "load": true,
+  "uid": "oracion_adoro_te",
+  "contenido": [
+    { "insert": "Te adoro con devoción, Dios escondido, oculto verdaderamente bajo estas apariencias.\n" },
+    { "insert": "A ti se somete mi corazón por completo, y se rinde totalmente al contemplarte.\n" },
+    { "insert": "La vista, el tacto, el gusto, se equivocan sobre ti; pero basta con el oído para creer con firmeza.\n" },
+    { "insert": "Creo todo lo que ha dicho el Hijo de Dios: nada es más verdadero que esta palabra de verdad.\n" },
+    { "insert": "Jesús, a quien ahora veo oculto, te ruego que se cumpla lo que tanto deseo:\n" },
+    { "insert": "que al mirar tu rostro cara a cara, sea yo feliz viendo tu gloria. Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Adoro te devote, latens Deitas, quae sub his figuris vere latitas:\n" },
+    { "insert": "tibi se cor meum totum subiicit, quia te contemplans totum deficit.\n" },
+    { "insert": "Visus, tactus, gustus in te fallitur, sed auditu solo tuto creditur:\n" },
+    { "insert": "credo quidquid dixit Dei Filius: nil hoc verbo veritatis verius.\n" },
+    { "insert": "Iesu, quem velatum nunc aspicio, oro fiat illud quod tam sitio:\n" },
+    { "insert": "ut te revelata cernens facie, visu sim beatus tuae gloriae. Amen.\n" }
+  ]
+},
+{
+  "title": "Benedictus",
+  "load": true,
+  "uid": "oracion_benedictus",
+  "contenido": [
+    { "insert": "Bendito sea el Señor, Dios de Israel, porque ha visitado y redimido a su pueblo.\n" },
+    { "insert": "Suscitándonos una fuerza de salvación en la casa de David, su siervo,\n" },
+    { "insert": "según lo había predicho desde antiguo por boca de sus santos profetas.\n" },
+    { "insert": "Es la salvación que nos libra de nuestros enemigos y de la mano de todos los que nos odian.\n" },
+    { "insert": "Por la entrañable misericordia de nuestro Dios, nos visitará el sol que nace de lo alto,\n" },
+    { "insert": "para iluminar a los que viven en tinieblas y en sombra de muerte,\n" },
+    { "insert": "para guiar nuestros pasos por el camino de la paz.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Benedictus Dominus Deus Israel, quia visitavit et fecit redemptionem plebi suae.\n" },
+    { "insert": "Et erexit cornu salutis nobis in domo David pueri sui,\n" },
+    { "insert": "sicut locutus est per os sanctorum, qui a saeculo sunt, prophetarum eius.\n" },
+    { "insert": "Salutem ex inimicis nostris et de manu omnium, qui oderunt nos.\n" },
+    { "insert": "Per viscera misericordiae Dei nostri, in quibus visitavit nos oriens ex alto,\n" },
+    { "insert": "illuminare his, qui in tenebris et in umbra mortis sedent,\n" },
+    { "insert": "ad dirigendos pedes nostros in viam pacis. Amen.\n" }
+  ]
+},
+{
+  "title": "A Ti, Dios (Te Deum)",
+  "load": true,
+  "uid": "oracion_te_deum",
+  "contenido": [
+    { "insert": "A ti, oh Dios, te alabamos, a ti, Señor, te reconocemos.\n" },
+    { "insert": "A ti, eterno Padre, te venera toda la creación.\n" },
+    { "insert": "Los ángeles todos, los cielos y todas las potestades,\n" },
+    { "insert": "los querubines y serafines te cantan sin cesar:\n" },
+    { "insert": "Santo, Santo, Santo es el Señor, Dios del universo.\n" },
+    { "insert": "Llenos están los cielos y la tierra de la majestad de tu gloria.\n" },
+    { "insert": "Sálvanos, Señor, y bendice a tu heredad.\n" },
+    { "insert": "Dígnate, Señor, en este día guardarnos del pecado.\n" },
+    { "insert": "En ti, Señor, esperé, no me veré defraudado para siempre.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Te Deum laudamus: te Dominum confitemur.\n" },
+    { "insert": "Te aeternum Patrem omnis terra veneratur.\n" },
+    { "insert": "Tibi omnes Angeli, tibi caeli et universae potestates,\n" },
+    { "insert": "tibi Cherubim et Seraphim incessabili voce proclamant:\n" },
+    { "insert": "Sanctus, Sanctus, Sanctus Dominus Deus Sabaoth.\n" },
+    { "insert": "Pleni sunt caeli et terra maiestatis gloriae tuae.\n" },
+    { "insert": "Salvum fac populum tuum, Domine, et benedic hereditati tuae.\n" },
+    { "insert": "Dignare, Domine, die isto sine peccato nos custodire.\n" },
+    { "insert": "In te, Domine, speravi: non confundar in aeternum.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Bendición de la mesa",
+  "load": true,
+  "uid": "oracion_bendicion_alimentos",
+  "contenido": [
+    { "insert": "Bendícenos, Señor, y bendice estos alimentos que por tu bondad vamos a tomar.\n" },
+    { "insert": "El Rey de la gloria eterna nos haga partícipes de la mesa celestial.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Benedic, Domine, nos et haec tua dona, quae de tua largitate sumus sumpturi.\n" },
+    { "insert": "Mensaecaelestis participes faciat nos, Rex aeternae gloriae.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "En tus manos encomiendo mi espíritu",
+  "load": true,
+  "uid": "oracion_antes_dormir",
+  "contenido": [
+    { "insert": "En tus manos, Señor, encomiendo mi espíritu.\n" },
+    { "insert": "Tú, el Dios leal, nos has redimido.\n" },
+    { "insert": "Guárdanos, Señor, como a las niñas de tus ojos;\n" },
+    { "insert": "protégenos a la sombra de tus alas.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "In manus tuas, Domine, commendo spiritum meum.\n" },
+    { "insert": "Redemisti nos, Domine, Deus veritatis.\n" },
+    { "insert": "Custodi nos, Domine, ut pupillam oculi;\n" },
+    { "insert": "sub umbra alarum tuarum protege nos.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración a San José",
+  "load": true,
+  "uid": "oracion_san_jose",
+  "recomendacion": "A San José se le invoca como terror de los demonios y protector de las familias",
+  "contenido": [
+    { "insert": "A ti, bienaventurado San José, acudimos en nuestra tribulación.\n" },
+    { "insert": "Por aquel lazo de caridad que te unió con la Virgen Inmaculada, Madre de Dios,\n" },
+    { "insert": "y por el paterno amor con que abrazaste al Niño Jesús.\n" },
+    { "insert": "Defiende, oh providente custodio de la divina Familia, la herencia de Jesucristo.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Ad te, beate Ioseph, in tribulatione nostra confugimus.\n" },
+    { "insert": "Per caritatem, quae te cum immaculata Virgine Dei Genetrice coniunxit,\n" },
+    { "insert": "et per paternum amorem, quo Puerum Iesum amplexus es.\n" },
+    { "insert": "Propitius respice ad hereditatem, quam Iesus Christus adquisivit,\n" },
+    { "insert": "et vigila super divinam familiam. Amen.\n" }
+  ]
+},
+{
+  "title": "Oración a San Judas Tadeo",
+  "load": true,
+  "uid": "oracion_san_judas",
+  "recomendacion": "Patrono de las causas imposibles y desesperadas",
+  "contenido": [
+    { "insert": "¡Santo Apóstol San Judas, fiel siervo y amigo de Jesús! \n" },
+    { "insert": "Ruega por mí, que soy tan miserable; haz uso de ese privilegio especial a ti concedido,\n" },
+    { "insert": "de socorrer visible y prontamente cuando casi se ha perdido toda esperanza.\n" },
+    { "insert": "Ven en mi ayuda en esta gran necesidad.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Sancte Iuda Apostole, serve fidelis et amice Iesu!\n" },
+    { "insert": "Ora pro me misero; utere, quaeso, illo proprio privilegio tibi concesso,\n" },
+    { "insert": "adferre auxilium ubi spes fere deest.\n" },
+    { "insert": "Veni in adiutorium meum in magna hac necessitate.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración a San Antonio de Padua",
+  "load": true,
+  "uid": "oracion_san_antonio",
+  "recomendacion": "Se recomienda para pedir ayuda en la recuperación de objetos perdidos y para encontrar el camino en momentos de confusión espiritual.",
+  "contenido": [
+    { "insert": "¡Oh admirable San Antonio!, glorioso por los milagros que has obrado.\n" },
+    { "insert": "Obtenme de la bondad de Dios la gracia que ardientemente deseo.\n" },
+    { "insert": "Tú, que eres tan amable con los pecadores, no mires mi falta de méritos,\n" },
+    { "insert": "sino la gloria de Dios para que sea otra vez exaltada por ti.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Si quaeris miracula, mors, error, calamitas, daemon, lepra fugiunt.\n" },
+    { "insert": "Cedunt mare, vincula, membra resurgunt sana, perditque res locantur.\n" },
+    { "insert": "Pereunt pericula, cessat et necessitas; narrent hi qui sentiunt.\n" },
+    { "insert": "Dicant Paduani: Deo sit laus et gloria.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración por la Paz (San Francisco de Asís)",
+  "load": true,
+  "uid": "oracion_san_francisco",
+  "recomendacion": "Ideal para buscar la serenidad, resolver conflictos familiares y pedir un corazón generoso que sepa perdonar.",
+  "contenido": [
+    { "insert": "Señor, hazme un instrumento de tu paz.\n" },
+    { "insert": "Donde haya odio, siembre yo amor; donde haya ofensa, perdón.\n" },
+    { "insert": "Donde haya duda, fe; donde haya desesperación, esperanza.\n" },
+    { "insert": "Donde haya tinieblas, luz; donde haya tristeza, alegría.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Domine, fac me instrumentum pacis tuae.\n" },
+    { "insert": "Ubi odium, ibi amorem seram; ubi iniuria, veniam.\n" },
+    { "insert": "Ubi dubium, fidem; ubi desperatio, spem.\n" },
+    { "insert": "Ubi tenebrae, lucem; ubi tristitia, laetitiam.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración a Santa Rita",
+  "load": true,
+  "uid": "oracion_santa_rita",
+  "recomendacion": "Utilizada tradicionalmente para situaciones desesperadas, casos imposibles y crisis matrimoniales difíciles.",
+  "contenido": [
+    { "insert": "Bajo el peso del dolor, a ti, querida Santa Rita, recurro confiado en ser escuchado.\n" },
+    { "insert": "Libera mi pobre corazón de las angustias que lo oprimen y devuelve la calma a mi espíritu.\n" },
+    { "insert": "Tú que fuiste elegida por Dios como abogada de los casos desesperados,\n" },
+    { "insert": "obtenme la gracia que con tanto fervor te pido.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Sub pondere doloris, ad te, cara Sancta Rita, confisus confugio.\n" },
+    { "insert": "Libera cor meum ab angustiis quae premunt, et reddere pacem spiritui meo.\n" },
+    { "insert": "Tu, quae advocata in casibus desperatis electa es,\n" },
+    { "insert": "impetra mihi gratiam quam ferventer peto.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración a San Expedito",
+  "load": true,
+  "uid": "oracion_san_expedito",
+  "recomendacion": "Se reza cuando se necesita una solución inmediata a un problema financiero, legal o de salud que no puede esperar.",
+  "contenido": [
+    { "insert": "Mi San Expedito de las causas urgentes y justas, intercede por mí ante nuestro Señor Jesucristo.\n" },
+    { "insert": "Socórreme en esta hora de aflicción y desesperanza.\n" },
+    { "insert": "Protege a mi familia y devuélveme la paz y la tranquilidad.\n" },
+    { "insert": "Te seré fiel por el resto de mi vida y daré a conocer tu nombre a todos los que tienen fe.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Sancte Expedite, qui causas urgentes et iustas adiuvas, intercede pro me.\n" },
+    { "insert": "Adiuva me in hac hora afflictionis y desperationis.\n" },
+    { "insert": "Protege familiam meam y redde mihi pacem.\n" },
+    { "insert": "Fidelis ero tibi et nomen tuum omnibus nuntiabo.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración a San Peregrino",
+  "load": true,
+  "uid": "oracion_san_peregrino",
+  "recomendacion": "Especialmente recomendada para personas que padecen cáncer o enfermedades graves, pidiendo fortaleza y sanación física.",
+  "contenido": [
+    { "insert": "Oh San Peregrino, a quien llaman 'El Ángel de la Guarda' por tu celo en ayudar a los enfermos.\n" },
+    { "insert": "Tú que sufriste en tu propia carne la enfermedad, intercede por nosotros ante Dios.\n" },
+    { "insert": "Alcánzanos la gracia de la curación y la fuerza para aceptar siempre la voluntad divina.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Sancte Peregrine, quem 'Angelum Custodem' infirmorum dicunt,\n" },
+    { "insert": "tu qui in carne tua morbum pertulisti, intercede pro nobis ad Dominum.\n" },
+    { "insert": "Impetra nobis gratiam sanationis et virtutem voluntatem divinam accipiendi.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Nada te turbe (Santa Teresa de Ávila)",
+  "load": true,
+  "uid": "oracion_santa_teresa",
+  "recomendacion": "Ideal para momentos de angustia, crisis de pánico o cuando se siente que los problemas superan la capacidad de uno mismo.",
+  "contenido": [
+    { "insert": "Nada te turbe, nada te espante, todo se pasa, Dios no se muda.\n" },
+    { "insert": "La paciencia todo lo alcanza; quien a Dios tiene nada le falta.\n" },
+    { "insert": "Solo Dios basta.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Nihil te perturbet, nihil te pavefaciat; omnia praetereunt, Deus non mutatur.\n" },
+    { "insert": "Patientia omnia adipiscitur; qui Deum habet, nihil ei deest.\n" },
+    { "insert": "Solus Deus sufficit.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración a San Cayetano",
+  "load": true,
+  "uid": "oracion_san_cayetano",
+  "recomendacion": "Se reza para pedir providencia divina, conseguir un empleo digno o cuando hay dificultades económicas en el hogar.",
+  "contenido": [
+    { "insert": "¡Oh glorioso San Cayetano!, Padre de la Providencia, no permitas que en mi casa falte el pan.\n" },
+    { "insert": "Ayúdanos a encontrar un trabajo honrado y a confiar siempre en la bondad del Señor.\n" },
+    { "insert": "Danos salud y paz para servir a Dios y a nuestros hermanos.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Sancte Caietane, Providentiae Pater, ne sinas panem in domo nostra deesse.\n" },
+    { "insert": "Adiuva nos laborem dignum invenire et semper in Domini bonitate confidere.\n" },
+    { "insert": "Da nobis salutem et pacem ad servitium Dei et proximi. Amen.\n" }
+  ]
+},
+{
+  "title": "Oración a San Pancracio",
+  "load": true,
+  "uid": "oracion_san_pancracio",
+  "recomendacion": "Frecuentemente utilizada para pedir bienestar en el hogar, salud en los jóvenes y éxito en proyectos comerciales.",
+  "contenido": [
+    { "insert": "Oh glorioso San Pancracio, que en la juventud diste la vida por Cristo.\n" },
+    { "insert": "Te ruego intercedas por mis necesidades de salud y trabajo.\n" },
+    { "insert": "Para que, con tu ayuda, logre la prosperidad y sea siempre fiel al Evangelio.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Gloriose Sancte Pancrati, qui in iuventute vitam pro Christo dedisti.\n" },
+    { "insert": "Intercede pro necessitatibus meis sanitatis et laboris.\n" },
+    { "insert": "Ut, te adiuvante, prosperitatem consequar et Evangelio fidelis maneam.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración a Santa Filomena",
+  "load": true,
+  "uid": "oracion_santa_filomena",
+  "recomendacion": "Virgen y mártir, es la patrona del Rosario Viviente y de los hijos de María. Se la conoce como la 'Lumbrera de la Iglesia' por su pureza y su poder para obtener gracias en situaciones de gran desesperanza.",
+  "contenido": [
+    { "insert": "¡Oh gloriosa Santa Filomena!, virgen y mártir, ejemplo de fe y de amor.\n" },
+    { "insert": "Te suplico me alcances de Dios la fuerza para resistir al mal y la gracia que hoy te pido.\n" },
+    { "insert": "Tú que eres tan poderosa ante el trono de Dios, no me abandones en mi necesidad.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "O gloriosa Sancta Philumena, virgo et martyr, exemplum fidei et amoris.\n" },
+    { "insert": "Deprecor te ut mihi a Deo impetres virtutem resistendi malo et gratiam quam peto.\n" },
+    { "insert": "Tu, quae ante thronum Dei praevales, ne me in necessitate mea derelinquas.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración a San Cristóbal",
+  "load": true,
+  "uid": "oracion_san_cristobal",
+  "recomendacion": "Su nombre significa 'Portador de Cristo'. Es el patrono de los viajeros, conductores y peregrinos. Se le conoce como el protector contra las muertes repentinas y los peligros del camino.",
+  "contenido": [
+    { "insert": "Dame, Señor, mano firme y mirada vigilante para que a mi paso no cause daño a nadie.\n" },
+    { "insert": "A ti, Señor, que das la vida y la conservas, te suplico humildemente que guardes hoy la mía.\n" },
+    { "insert": "San Cristóbal, protector de los viajeros, acompáñame en mi camino y líbrame de todo mal.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Da mihi, Domine, manum firmam et visum vigilem, ne cui noceam praeteriens.\n" },
+    { "insert": "Tu, Domine, qui vitam das y conservas, deprecor te ut vitam meam hodie custodias.\n" },
+    { "insert": "Sancte Christophore, viatorum protector, me in via comitare et ab omni malo libera.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración del Padre Pío",
+  "load": true,
+  "uid": "oracion_padre_pio",
+  "recomendacion": "Conocido por su entrega total al sacramento de la confesión y por sus heridas místicas. Se le conoce como el santo de la esperanza y el sufrimiento ofrecido a Dios. Ideal para pedir paciencia y alivio en el dolor.",
+  "contenido": [
+    { "insert": "Quédate conmigo, Señor, porque es necesario tenerte presente para no olvidarte.\n" },
+    { "insert": "Quédate conmigo, Señor, porque soy débil y necesito tu fuerza para no caer.\n" },
+    { "insert": "Quédate conmigo, Señor, porque tú eres mi luz y sin ti estoy en tinieblas.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Mane nobiscum, Domine, quoniam necesse est Te praesentem habere ne Te obliviscar.\n" },
+    { "insert": "Mane nobiscum, Domine, quia infirmus sum et Tua vi egeo ne cadam.\n" },
+    { "insert": "Mane nobiscum, Domine, quia Tu es lux mea et sine Te in tenebris sum.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración de San Agustín",
+  "load": true,
+  "uid": "oracion_san_agustin",
+  "recomendacion": "Considerado el 'Doctor de la Gracia'. Es el patrón de los que buscan la verdad y de los teólogos. Su conversión es el ejemplo máximo de que nunca es tarde para volver a Dios.",
+  "contenido": [
+    { "insert": "¡Tarde te amé, Hermosura tan antigua y tan nueva, tarde te amé!\n" },
+    { "insert": "Tú estabas dentro de mí y yo fuera, y por fuera te buscaba.\n" },
+    { "insert": "Me llamaste y clamaste, y quebrantaste mi sordera.\n" },
+    { "insert": "Brillaste y resplandeciste, y curaste mi ceguera.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Sero te amavi, pulchritudo tam antiqua et tam nova, sero te amavi!\n" },
+    { "insert": "Et ecce intus eras et ego foris, et ibi te quaerebam.\n" },
+    { "insert": "Vocasti et clamasti et rupisti surditatem meam.\n" },
+    { "insert": "Coruscasti, splenduisti et fugasti caecitatem meam.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración de la Lluvia de Rosas - Santa Teresita del Niño Jesús",
+  "load": true,
+  "uid": "oracion_santa_teresita",
+  "recomendacion": "Patrona de las misiones y Doctora de la Iglesia. Se la conoce por su 'Caminito' de santidad basado en hacer las cosas pequeñas con un amor inmenso. Se le invoca para obtener favores específicos con humildad.",
+  "contenido": [
+    { "insert": "Santa Teresita, tú que prometiste enviar una lluvia de rosas desde el cielo.\n" },
+    { "insert": "Mírame con compasión y ayúdame en esta necesidad que hoy pongo en tus manos.\n" },
+    { "insert": "Enséñame tu caminito de confianza y amor para que pueda agradar a Dios como tú.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Sanctae Teresia a Iesu Infante, quae promisisti imbrem rosarum de caelo missuram.\n" },
+    { "insert": "Respice me misericordia et adiuva me in hac necessitate quam in manus tuas pono.\n" },
+    { "insert": "Doce me viam fiduciae et amoris ut Deo sicut tu placeam.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración a San Roque",
+  "load": true,
+  "uid": "oracion_san_roque",
+  "recomendacion": "Patrono de los enfermos, de los cirujanos y muy especialmente de los animales (perros). Se le conoce como el protector contra epidemias, pestes y enfermedades contagiosas.",
+  "contenido": [
+    { "insert": "Misericordioso San Roque, que por tu amor a los pobres y enfermos mereciste ser sanado por Dios.\n" },
+    { "insert": "Líbranos de las enfermedades contagiosas y de todo mal del cuerpo.\n" },
+    { "insert": "Protege también a nuestros animales domésticos que nos acompañan con fidelidad.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Misericors Sancte Roche, qui propter amorem pauperum et infirmorum a Deo sanatus es.\n" },
+    { "insert": "Libera nos a morbis contagiosis et ab omni malo corporis.\n" },
+    { "insert": "Protege etiam animalia nostra domestica quae nos fideliter comitantur.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración al Divino Niño Jesús",
+  "load": true,
+  "uid": "oracion_divino_nino",
+  "recomendacion": "Esta devoción resalta la infancia de Jesús como fuente de bendiciones. Es mundialmente conocida por la frase 'Yo reinaré'. Se le conoce como el protector de los niños y de las causas familiares, y se recomienda rezarla con mucha confianza para pedir milagros difíciles, recordando la pureza y el poder de su niñez.",
+  "contenido": [
+    { "insert": "Divino Niño Jesús, tengo mil dificultades: ayúdame.\n" },
+    { "insert": "De los enemigos del alma: sálvame. En mis desaciertos: ilumíname.\n" },
+    { "insert": "En mis dudas y perplejidades: confórtame. En mis soledades: acompáñame.\n" },
+    { "insert": "En mis enfermedades: fortaléceme. Cuando me desprecien: anímame.\n" },
+    { "insert": "En las tentaciones: defiéndeme. En las horas difíciles: consuélame.\n" },
+    { "insert": "Con tu corazón paternal: ámame. Con tu inmenso poder: auxíliame.\n" },
+    { "insert": "Y en tus brazos al expirar: recíbeme.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Divine Puer Iesu, habeo mille difficultates: adiuva me.\n" },
+    { "insert": "Ab inimicis animae: salva me. In erroribus meis: illumina me.\n" },
+    { "insert": "In dubiis et perplexitatibus meis: conforta me. In solitudinibus meis: comitare me.\n" },
+    { "insert": "In infirmitatibus meis: robora me. Cum me despiciunt: anima me.\n" },
+    { "insert": "In tentationibus: defende me. In horis difficilibus: consolare me.\n" },
+    { "insert": "Corde tuo paterno: ama me. Immensa potentia tua: auxiliare mihi.\n" },
+    { "insert": "Et in brachiis tuis morientem: suscipe me.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Súplica al Divino Niño",
+  "load": true,
+  "uid": "oracion_suplica_divino_nino",
+  "recomendacion": "Esta es la plegaria de confianza absoluta que popularizó el Padre Juan del Rizzo en el barrio 20 de Julio. Se conoce por su estructura de súplica directa. Se recomienda rezarla cuando se siente angustia o miedo, repitiendo con fe la frase final de bendición, confiando en su promesa: 'Todo lo que quieras pedir, pídelo por los méritos de mi infancia'.",
+  "contenido": [
+    { "insert": "Niño amable de mi vida, consuelo de los cristianos,\n" },
+    { "insert": "la gracia que necesito, pongo en tus benditas manos.\n" },
+    { "insert": "Tú que sabes mis pesares, pues todos te los confío,\n" },
+    { "insert": "da la paz a los turbados y alivio al corazón mío.\n" },
+    { "insert": "Y aunque tu amor no merezco, no recurro a ti en vano,\n" },
+    { "insert": "pues eres Hijo de Dios y auxilio de los cristianos.\n" },
+    { "insert": "Acuérdate, oh Niño Santo, que jamás se oyó decir,\n" },
+    { "insert": "que alguno te haya implorado sin tu ayuda recibir.\n" },
+    { "insert": "Por eso, con fe y confianza, humilde y arrepentido,\n" },
+    { "insert": "lleno de amor y esperanza, este favor te pido:\n" },
+    { "insert": "Divino Niño Jesús, bendícenos.\n" },
+    { "insert": "Divino Niño Jesús, escúchanos.\n" },
+    { "insert": "Divino Niño Jesús, ayúdanos.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Puer amabilis vitae meae, solatium christianorum,\n" },
+    { "insert": "gratiam qua egeo, in tuis benedictis manibus pono.\n" },
+    { "insert": "Tu qui dolores meos nosti, nam omnes tibi confido,\n" },
+    { "insert": "da pacem turbatis et levamen cordi meo.\n" },
+    { "insert": "Et quamvis amorem tuum non merear, non frustra ad te confugio,\n" },
+    { "insert": "nam Filius Dei es et auxilium christianorum.\n" },
+    { "insert": "Memento, o Puer Sancte, nunquam auditum esse,\n" },
+    { "insert": "quemquam te implorasse sine tuo auxilio.\n" },
+    { "insert": "Idcirco, cum fide et fiducia, humilis et poenitens,\n" },
+    { "insert": "plenus amore et spe, hoc beneficium a te peto:\n" },
+    { "insert": "Divine Puer Iesu, benedic nos.\n" },
+    { "insert": "Divine Puer Iesu, exaudi nos.\n" },
+    { "insert": "Divine Puer Iesu, adiuva nos.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración a la Virgen de Guadalupe",
+  "load": true,
+  "uid": "oracion_virgen_guadalupe",
+  "recomendacion": "Es la advocación mariana más importante de América. Se le conoce como la Madre que consuela, recordada por sus palabras a Juan Diego: '¿No estoy yo aquí que soy tu Madre?'. Se recomienda para pedir protección por la familia, la patria y en momentos de angustia donde se necesita el abrazo de una madre.",
+  "contenido": [
+    { "insert": "¡Oh Virgen Inmaculada, Madre del verdadero Dios y Madre de la Iglesia!\n" },
+    { "insert": "Tú, que desde este lugar manifiestas tu clemencia y tu compasión a todos los que solicitan tu amparo.\n" },
+    { "insert": "Escucha la oración que con filial confianza te dirigimos y preséntala ante tu Hijo Jesús.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "O Virgo Immaculata, Mater veri Dei et Mater Ecclesiae!\n" },
+    { "insert": "Tu, quae in hoc loco clementiam tuam et misericordiam omnibus praebes,\n" },
+    { "insert": "audi precem quam filiali fiducia ad te dirigimus et Filio tuo Iesu praesenta.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración a San Juan Pablo II",
+  "load": true,
+  "uid": "oracion_juan_pablo_ii",
+  "recomendacion": "Conocido como el Papa de la Familia y el Papa de los Jóvenes. Sobrevivió a un atentado y fue un gran defensor de la paz mundial. Se le conoce como el santo de la esperanza y la valentía. Se recomienda para pedir por la unión familiar y para tener fuerza ante los desafíos del mundo moderno.",
+  "contenido": [
+    { "insert": "¡Oh San Juan Pablo, desde la ventana del cielo danos tu bendición!\n" },
+    { "insert": "Bendice a la Iglesia, que tú has amado, servido y guiado.\n" },
+    { "insert": "Bendice a las familias, bendice a los jóvenes, protégenos de todo mal.\n" },
+    { "insert": "Enséñanos a no tener miedo y a abrir de par en par las puertas a Cristo.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "O Sancte Ioannes Paule, de fenestra caeli benedic nos!\n" },
+    { "insert": "Benedic Ecclesiam, quam dilexisti, coluisti et rexisti.\n" },
+    { "insert": "Benedic familias, benedic iuvenes, ab omni malo nos protege.\n" },
+    { "insert": "Doce nos non timere et ianuas Christo late aperire.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Jesús, en Ti confío",
+  "load": true,
+  "uid": "oracion_divina_misericordia_confianza",
+  "recomendacion": "Esta devoción fue revelada a Santa Faustina Kowalska en Polonia. Se basa en el amor incondicional de Dios que siempre perdona. Se conoce como el 'Océano de Misericordia'. Se recomienda rezarla especialmente a las 3:00 p.m. (la Hora de la Misericordia) para pedir perdón por los propios pecados y por los del mundo entero.",
+  "contenido": [
+    { "insert": "Oh Sangre y Agua que brotaste del Corazón de Jesús como una fuente de misericordia para nosotros, en Ti confío.\n" },
+    { "insert": "Jesús, en Ti confío.\n" },
+    { "insert": "Jesús, en Ti confío.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "O Sanguis et Aqua, qui profluxisti de Corde Iesu tamquam fons misericordiae pro nobis, in Te confido.\n" },
+    { "insert": "Iesu, in Te confido.\n" },
+    { "insert": "Iesu, in Te confido.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Coronilla de la Divina Misericordia",
+  "load": true,
+  "uid": "oracion_coronilla_misericordia",
+  "recomendacion": "Dictada por Jesús a Santa Faustina como una oración poderosa para aplacar la justicia divina. Se conoce por su capacidad de obtener la conversión de los pecadores y la paz para los moribundos. Es la oración oficial de la Fiesta de la Misericordia (el domingo después de Pascua).",
+  "contenido": [
+    { "insert": "Padre Eterno, Te ofrezco el Cuerpo, la Sangre, el Alma y la Divinidad de Tu Amadísimo Hijo, nuestro Señor Jesucristo,\n" },
+    { "insert": "como propiciación por nuestros pecados y los del mundo entero.\n" },
+    { "insert": "Por Su dolorosa Pasión, ten misericordia de nosotros y del mundo entero.\n" },
+    { "insert": "Santo Dios, Santo Fuerte, Santo Inmortal, ten piedad de nosotros y del mundo entero.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Pater Aeterne, offero Tibi Corpus et Sanguinem, Animam et Divinitatem dilectissimi Filii Tui, Domini nostri Iesu Christi,\n" },
+    { "insert": "in propitiatione pro peccatis nostris et totius mundi.\n" },
+    { "insert": "Propter eius amaram Passionem, miserere nobis et totius mundi.\n" },
+    { "insert": "Sanctus Deus, Sanctus Fortis, Sanctus Immortalis, miserere nobis et totius mundi.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración por los enfermos",
+  "load": true,
+  "uid": "oracion_enfermos",
+  "recomendacion": "Esta oración apela a la compasión de Jesús, quien durante su vida terrenal sanó a ciegos, leprosos y paralíticos. Se conoce como una plegaria de abandono en la voluntad divina. Se recomienda para pedir alivio en el dolor físico, fortaleza para los cuidadores y la gracia de la salud si es para bien del alma.",
+  "contenido": [
+    { "insert": "Señor Jesús, que pasaste por el mundo haciendo el bien y sanando toda enfermedad.\n" },
+    { "insert": "Mira con ojos de misericordia a nuestro hermano enfermo y dale la fuerza de tu Espíritu.\n" },
+    { "insert": "Alivia sus dolores, reconforta su ánimo y, si es tu voluntad, devuélvele la salud.\n" },
+    { "insert": "Para que pueda darte gracias en tu Iglesia y servir a sus hermanos.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Domine Iesu, qui pertransisti benefaciendo et sanando omnem infirmitatem.\n" },
+    { "insert": "Respice oculis misericordiae tuae fratrem nostrum infirmum et da ei virtutem Spiritus Tui.\n" },
+    { "insert": "Leva dolores eius, conforta animum et, si voluntas tua est, redde ei sanitatem.\n" },
+    { "insert": "Ut in Ecclesia tua tibi gratias agere et fratribus servire possit.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración al comenzar el día",
+  "load": true,
+  "uid": "oracion_levantarse",
+  "recomendacion": "Conocida como el 'Ofrecimiento de obras'. Se remonta a las prácticas de los primeros cristianos que entregaban sus fatigas a Dios al salir el sol. Se recomienda para empezar el día con intención pura, pidiendo que nuestras palabras y acciones no ofendan a Dios ni a los demás.",
+  "contenido": [
+    { "insert": "Señor, en el silencio de este día que nace, vengo a pedirte paz, sabiduría y fortaleza.\n" },
+    { "insert": "Hoy quiero mirar al mundo con ojos llenos de amor; ser paciente, comprensivo y humilde.\n" },
+    { "insert": "Cierra mis oídos a toda calumnia y guarda mi lengua de toda maldad.\n" },
+    { "insert": "Vísteme de tu bondad para que, durante este día, yo te refleje a Ti.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Domine, in silentio huius diei nascentis, venio ad Te petendam pacem et sapientiam.\n" },
+    { "insert": "Hodie volo mundum intueri oculis amore plenis; patiens, mitis et humilis esse.\n" },
+    { "insert": "Claude aures meas omni detractioni et custodi linguam meam ab omni malitia.\n" },
+    { "insert": "Indue me bonitate tua ut, per hunc diem, Te omnibus ostendam.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Acción de gracias",
+  "load": true,
+  "uid": "oracion_agradecimiento",
+  "recomendacion": "La gratitud es considerada 'la memoria del corazón'. Esta oración se conoce por ayudar a cultivar la alegría espiritual. Se recomienda rezarla al final del día o tras recibir una gracia especial, reconociendo que incluso en las pruebas hay una enseñanza y una mano providente.",
+  "contenido": [
+    { "insert": "Te damos gracias, Dios todopoderoso, por todos tus beneficios.\n" },
+    { "insert": "Gracias por la vida, por la salud, por la familia y por el pan de cada día.\n" },
+    { "insert": "Te agradezco incluso las dificultades, porque ellas me acercan más a Ti.\n" },
+    { "insert": "Que mi vida sea un canto de alabanza a tu infinita bondad.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Gratias agimus tibi, omnipotens Deus, pro universis beneficiis tuis.\n" },
+    { "insert": "Gratias pro vita, pro sanitate, pro familia et pro pane quotidiano.\n" },
+    { "insert": "Gratias ago tibi etiam pro adversitatibus, quia me ad Te adducunt.\n" },
+    { "insert": "Fiat vita mea laus infinitae bonitatis tuae.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "La Armadura de Dios",
+  "load": true,
+  "uid": "oracion_armadura_dios",
+  "recomendacion": "Es la oración de combate espiritual por excelencia. San Pablo la escribió para animar a los cristianos a mantenerse firmes contra las tentaciones. Se le conoce como la defensa del creyente. Se recomienda para momentos en los que nos sentimos atacados por pensamientos negativos, vicios o influencias del mal.",
+  "contenido": [
+    { "insert": "Me fortalezco en el Señor y en su fuerza poderosa. Me pongo la armadura de Dios.\n" },
+    { "insert": "Me ciño el cinturón de la verdad y me pongo la coraza de la justicia.\n" },
+    { "insert": "Tomo el escudo de la fe para apagar las flechas incendiarias del maligno.\n" },
+    { "insert": "Me pongo el casco de la salvación y tomo la espada del Espíritu, que es la Palabra de Dios.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Confortor in Domino et in potentia virtutis eius. Induo me armatura Dei.\n" },
+    { "insert": "Cingo lumbos meos in veritate et induo loricam iustitiae.\n" },
+    { "insert": "Sumo scutum fidei, in quo possim omnia tela nequissimi ignea extinguere.\n" },
+    { "insert": "Galeam salutis assumo et gladium Spiritus, quod est verbum Dei.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Las Bienaventuranzas",
+  "load": true,
+  "uid": "oracion_bienaventuranzas",
+  "recomendacion": "Pronunciadas por Jesús en el Sermón de la Montaña, son consideradas la 'Carta Magna' del cristianismo. Se las conoce como el camino a la santidad y la felicidad eterna. Se recomienda meditarlas para entender que los valores del Reino de Dios son opuestos a los del mundo (donde los pobres, los humildes y los que sufren son llamados dichosos).",
+  "contenido": [
+    { "insert": "Bienaventurados los pobres de espíritu, porque de ellos es el Reino de los Cielos.\n" },
+    { "insert": "Bienaventurados los mansos, porque ellos heredarán la tierra.\n" },
+    { "insert": "Bienaventurados los que lloran, porque ellos serán consolados.\n" },
+    { "insert": "Bienaventurados los que tienen hambre y sed de justicia, porque ellos serán saciados.\n" },
+    { "insert": "Bienaventurados los misericordiosos, porque ellos alcanzarán misericordia.\n" },
+    { "insert": "Bienaventurados los limpios de corazón, porque ellos verán a Dios.\n" },
+    { "insert": "Bienaventurados los que trabajan por la paz, porque ellos serán llamados hijos de Dios.\n" },
+    { "insert": "Bienaventurados los perseguidos por causa de la justicia, porque de ellos es el Reino de los Cielos.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Beati pauperes spiritu, quoniam ipsorum est regnum caelorum.\n" },
+    { "insert": "Beati mites, quoniam ipsi possidebunt terram.\n" },
+    { "insert": "Beati qui lugent, quoniam ipsi consolabuntur.\n" },
+    { "insert": "Beati qui esuriunt et sitiunt iustitiam, quoniam ipsi saturabuntur.\n" },
+    { "insert": "Beati misericordes, quoniam ipsi misericordiam consequentur.\n" },
+    { "insert": "Beati mundo corde, quoniam ipsi Deum videbunt.\n" },
+    { "insert": "Beati pacifici, quoniam filii Dei vocabuntur.\n" },
+    { "insert": "Beati qui persecutionem patiuntur propter iustitiam, quoniam ipsorum est regnum caelorum.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Salmo 91: Oración de Protección",
+  "load": true,
+  "uid": "oracion_salmo_91",
+  "recomendacion": "Considerado el salmo más poderoso de protección espiritual y física. Se le conoce como el 'Escudo del Creyente'. Históricamente, ha sido rezado por soldados, viajeros y personas en peligro inminente. Se recomienda para invocar el amparo divino contra acechanzas del mal, peligros nocturnos, enfermedades contagiosas y para sentir la seguridad de estar bajo 'la sombra del Omnipotente'.",
+  "contenido": [
+    { "insert": "Tú que habitas al amparo del Altísimo y vives a la sombra del Omnipotente,\n" },
+    { "insert": "di al Señor: 'Mi refugio y mi baluarte, mi Dios, en quien confío'.\n" },
+    { "insert": "Él te librará de la red del cazador y de la peste perniciosa;\n" },
+    { "insert": "te cubrirá con sus plumas y hallarás refugio bajo sus alas.\n" },
+    { "insert": "No temerás el terror de la noche, ni la flecha que vuela de día,\n" },
+    { "insert": "ni la peste que acecha en las tinieblas, ni la plaga que devasta a mediodía.\n" },
+    { "insert": "Porque a sus ángeles ha dado órdenes para que te guarden en tus caminos.\n" },
+    { "insert": "Te llevarán en sus palmas, para que tu pie no tropiece en la piedra.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Qui habitat in adiutorio Altissimi, in protectione Dei caeli commorabitur.\n" },
+    { "insert": "Dicet Domino: Susceptor meus es tu et refugium meum; Deus meus, sperabo in eum.\n" },
+    { "insert": "Quoniam ipse liberavit me de laqueo venantium et a verbo aspero.\n" },
+    { "insert": "Scapulis suis obumbrabit tibi, et sub pennis eius sperabis.\n" },
+    { "insert": "Non timebis a timore nocturno, a sagitta volante in die,\n" },
+    { "insert": "a negotio perambulante in tenebris, ab incursu et daemonio meridiano.\n" },
+    { "insert": "Quoniam angelis suis mandavit de te, ut custodiant te in omnibus viis tuis.\n" },
+    { "insert": "In manibus portabunt te, ne forte offendas ad lapidem pedem tuum.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración al Dr. José Gregorio Hernández",
+  "load": true,
+  "uid": "oracion_jose_gregorio",
+  "recomendacion": "Conocido como el 'Médico de los Pobres', fue un hombre de ciencia que puso su conocimiento al servicio de la fe. Se le conoce por su humildad y sus milagros de sanación médica. Se recomienda rezarla con mucha fe antes de una operación, durante tratamientos de enfermedades crónicas o para pedir por la vocación de los médicos y enfermeros.",
+  "contenido": [
+    { "insert": "¡Oh Dios misericordioso!, que has dignado escoger a tu siervo José Gregorio,\n" },
+    { "insert": "para que siguiendo el ejemplo de Jesús, se dedicara al servicio de los enfermos.\n" },
+    { "insert": "Danos la gracia de imitar sus virtudes y, por su intercesión, te pedimos la salud.\n" },
+    { "insert": "Socórrenos en esta necesidad y danos fortaleza para aceptar tu santa voluntad.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "O Deus misericors, qui servum tuum Iosephum Gregorium elegisti,\n" },
+    { "insert": "ut exemplum Iesu sequens, infirmorum servitio se daret.\n" },
+    { "insert": "Da nobis gratiam virtutes eius imitandi et, eo intercedente, sanitatem petimus.\n" },
+    { "insert": "Adiuva nos in hac necessitate et da nobis fortitudinem voluntatem tuam accipiendi.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración a San Martín de Porres",
+  "load": true,
+  "uid": "oracion_san_martin_porres",
+  "recomendacion": "Conocido como el 'Santo de la Humildad' y el 'Patrono de la Justicia Social'. Se le recuerda por su asombroso don de la bilocación y por su capacidad de hacer comer del mismo plato a perro, pericote (ratón) y gato. Se recomienda para pedir por necesidades económicas urgentes, problemas de salud, armonía en el hogar y para pedir la virtud de la humildad.",
+  "contenido": [
+    { "insert": "¡Oh glorioso San Martín!, que con tu humildad y caridad te ganaste el corazón de Dios.\n" },
+    { "insert": "Tú que socorriste con amor a los pobres, a los enfermos y hasta a los animales.\n" },
+    { "insert": "Mira nuestras necesidades y alcánzanos del Señor la gracia que te pedimos.\n" },
+    { "insert": "Enséñanos a servir con alegría y a ver en cada hermano el rostro de Jesús.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "O gloriose Sancte Martine, qui humilitate et caritate cor Dei vicisti.\n" },
+    { "insert": "Tu qui pauperes, infirmos et etiam animalia amore fovisti.\n" },
+    { "insert": "Respice necessitates nostras et a Domino gratiam quam petimus impetra.\n" },
+    { "insert": "Doce nos cum gaudio servire et in unoquoque fratre faciem Iesu videre.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Acto de Caridad",
+  "load": true,
+  "uid": "oracion_acto_caridad",
+  "recomendacion": "Esta oración es un compromiso de amor. Se conoce como la expresión máxima de la ética cristiana: amar a Dios sobre todas las cosas y al prójimo como a uno mismo. Se recomienda rezarla para pedir un corazón más generoso y para limpiar el alma de resentimientos.",
+  "contenido": [
+    { "insert": "Señor Dios mío, te amo con todo mi corazón, sobre todas las cosas,\n" },
+    { "insert": "porque eres infinitamente bueno e infinitamente amable.\n" },
+    { "insert": "Y por amor a ti, amo a mi prójimo como a mí mismo\n" },
+    { "insert": "y perdono todas las ofensas que he recibido.\n" },
+    { "insert": "Señor, haz que te ame cada día más. Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Domine Deus, amo te ex toto corde super omnia,\n" },
+    { "insert": "quia es infinite bonus et infinite amabilis;\n" },
+    { "insert": "et propter te amo proximum meum sicut meipsum,\n" },
+    { "insert": "et dimitto omnes iniurias mihi illatas.\n" },
+    { "insert": "Domine, fac ut te magis magisque amem. Amen.\n" }
+  ]
+},
+{
+  "title": "El Ángelus",
+  "load": true,
+  "uid": "oracion_angelus",
+  "recomendacion": "Representa el saludo del Ángel a María. Se conoce por el toque de campanas que invita a la pausa y la oración en medio del trabajo. Se recomienda para recordar que Dios se hizo hombre y habita entre nosotros, pidiendo la protección de la Virgen María.",
+  "contenido": [
+    { "insert": "V. El Ángel del Señor anunció a María. R. Y concibió por obra del Espíritu Santo. (Avemaría)\n" },
+    { "insert": "V. He aquí la esclava del Señor. R. Hágase en mí según tu palabra. (Avemaría)\n" },
+    { "insert": "V. Y el Verbo se hizo carne. R. Y habitó entre nosotros. (Avemaría)\n" },
+    { "insert": "V. Ruega por nosotros, Santa Madre de Dios. R. Para que seamos dignos de las promesas de Cristo.\n" },
+    { "insert": "Oración: Infunde, Señor, tu gracia en nuestras almas para que, habiendo conocido por el anuncio del Ángel la Encarnación de tu Hijo, lleguemos por su Pasión y su Cruz a la gloria de la Resurrección. Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "V. Angelus Domini nuntiavit Mariae. R. Et concepit de Spiritu Sancto. (Ave Maria)\n" },
+    { "insert": "V. Ecce ancilla Domini. R. Fiat mihi secundum verbum tuum. (Ave Maria)\n" },
+    { "insert": "V. Et Verbum caro factum est. R. Et habitavit in nobis. (Ave Maria)\n" },
+    { "insert": "V. Ora pro nobis, Sancta Dei Genetrix. R. Ut digni efficiamur promissionibus Christi.\n" },
+    { "insert": "Oremus: Gratiam tuam, quaesumus, Domine, mentibus nostris infunde; ut qui, Angelo nuntiante, Christi Filii tui incarnationem cognovimus, per passionem eius et crucem ad resurrectionis gloriam perducamur. Amen.\n" }
+  ]
+},
+{
+  "title": "El eterno reposo",
+  "load": true,
+  "uid": "oracion_eterno_reposo",
+  "recomendacion": "Es la plegaria oficial de la Iglesia para el descanso de los fallecidos. Se conoce como 'Requiem' en latín. Se recomienda rezarla en funerales, aniversarios luctuosos o al pasar por un cementerio, confiando en la misericordia divina para que el alma alcance la visión de Dios.",
+  "contenido": [
+    { "insert": "Dales, Señor, el descanso eterno y brille para ellos la luz perpetua.\n" },
+    { "insert": "Que las almas de todos los fieles difuntos, por la misericordia de Dios, descansen en paz.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Requiem aeternam dona eis, Domine, et lux perpetua luceat eis.\n" },
+    { "insert": "Fidelium animae, per misericordiam Dei, requiescant in pace.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración a la Sagrada Familia",
+  "load": true,
+  "uid": "oracion_sagrada_familia",
+  "recomendacion": "Fue compuesta para pedir que cada hogar sea una 'Iglesia doméstica'. Se conoce por invocar la paz y la unidad familiar. Se recomienda para resolver conflictos entre parientes, proteger a los hijos y pedir que en la casa reinen el amor y el respeto.",
+  "contenido": [
+    { "insert": "Jesús, María y José, en vosotros contemplamos el esplendor del verdadero amor.\n" },
+    { "insert": "Sagrada Familia de Nazaret, haz que nuestras familias sean lugares de comunión y oración.\n" },
+    { "insert": "Haz que nunca más se viva en las familias episodios de violencia o de división.\n" },
+    { "insert": "Que quien haya sido herido sea pronto consolado y sanado. Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Iesu, Maria e Ioseph, in vobis verum amorem contemplamur.\n" },
+    { "insert": "Sancta Familia Nazarena, fac ut familiae nostrae sint loca communionis et orationis.\n" },
+    { "insert": "Fac ut nunquam in familiis violentia aut divisio experiatur.\n" },
+    { "insert": "Ut quicumque vulneratus sit, mox consoletur et sanetur. Amen.\n" }
+  ]
+},
+{
+  "title": "Comunión Espiritual",
+  "load": true,
+  "uid": "oracion_comunion_espiritual",
+  "recomendacion": "Popularizada por San Alfonso María de Ligorio. Se conoce como un acto de deseo ardiente de recibir a Cristo. Se recomienda rezarla cuando se ve la Misa por televisión, cuando se está enfermo o cuando se pasa frente a una iglesia y no se puede entrar.",
+  "contenido": [
+    { "insert": "Creo, Jesús mío, que estás realmente presente en el Santísimo Sacramento del Altar.\n" },
+    { "insert": "Te amo sobre todas las cosas y deseo recibirte en mi alma.\n" },
+    { "insert": "Pero no pudiendo hacerlo ahora sacramentalmente, ven al menos espiritualmente a mi corazón.\n" },
+    { "insert": "Como si ya te hubiese recibido, te abrazo y me uno todo a ti.\n" },
+    { "insert": "No permitas, Señor, que jamás me separe de ti. Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Credo, Domine Iesu, te in sanctissimo Altaris Sacramento praesentem esse.\n" },
+    { "insert": "Amo te super omnia et te in anima mea recipere desidero.\n" },
+    { "insert": "Cum te nunc sacramentaliter recipere non possim, veni saltem spiritualiter ad cor meum.\n" },
+    { "insert": "Te amplector et me totum tibi unio. Nunquam a te separari me permittas. Amen.\n" }
+  ]
+},
+
+{
+  "title": "Reina del Cielo",
+  "load": true,
+  "uid": "oracion_regina_coeli",
+  "recomendacion": "Es el himno de júbilo por la Resurrección de Cristo. Se reza en lugar del Ángelus durante el Tiempo de Pascua (desde el Domingo de Resurrección hasta Pentecostés). Se recomienda para celebrar con alegría la victoria de Jesús sobre la muerte junto a la Virgen María.",
+  "contenido": [
+    { "insert": "V: El que dirige; R: Respondemos todos.\n\n" },
+    { "insert": "V// Reina del cielo, alégrate, aleluya.\n" },
+    { "insert": "R// Porque el Señor, a quien has llevado en tu vientre, aleluya.\n", "attributes": { "bold": true } },
+    { "insert": "\nV// Ha resucitado según su palabra, aleluya.\n" },
+    { "insert": "R// Ruega al Señor por nosotros, aleluya.\n", "attributes": { "bold": true } },
+    { "insert": "\nV// Gózate y alégrate, Virgen María, aleluya.\n" },
+    { "insert": "R// Porque verdaderamente ha resucitado el Señor, aleluya.\n", "attributes": { "bold": true } },
+    { "insert": "\nV// Oremos:\n" },
+    { "insert": "R// Oh Dios, que por la resurrección de tu Hijo has llenado el mundo de alegría, concédenos llegar a los gozos de la vida eterna. Amén.\n", "attributes": { "bold": true } }
+  ],
+  "contenidolatin": [
+    { "insert": "V: Qui dirigit; R: Respondemus omnes.\n\n" },
+    { "insert": "V// Regina caeli, laetare, alleluia.\n" },
+    { "insert": "R// Quia quem meruisti portare, alleluia.\n", "attributes": { "bold": true } },
+    { "insert": "\nV// Resurrexit, sicut dixit, alleluia.\n" },
+    { "insert": "R// Ora pro nobis Deum, alleluia.\n", "attributes": { "bold": true } },
+    { "insert": "\nV// Gaude et laetare, Virgo Maria, alleluia.\n" },
+    { "insert": "R// Quia surrexit Dominus vere, alleluia.\n", "attributes": { "bold": true } },
+    { "insert": "\nV// Oremus:\n" },
+    { "insert": "R// Deus, qui per resurrectionem Filii tui mundum laetificare dignatus es: praesta, quaesumus; ut per eius Genetricem Virginem Mariam, perpetuae capiamus gaudia vitae. Amen.\n", "attributes": { "bold": true } }
+  ]
+},
+{
+  "title": "Salmo 35: Contra ataques espirituales",
+  "load": true,
+  "uid": "salmo_35_liberacion",
+  "recomendacion": "Es conocido como el salmo de la justicia de Dios. Se recomienda cuando sientas ataques directos, envidias o trabajos espirituales en tu contra. Se le conoce por pedir que los enemigos queden confundidos y que el ángel del Señor los aparte del camino de quien reza.",
+  "contenido": [
+    { "insert": "Señor, defiende mi causa contra los que me atacan; combate a los que me combaten.\n" },
+    { "insert": "Toma el escudo y la armadura, y levántate en mi ayuda.\n" },
+    { "insert": "Que queden avergonzados y confundidos los que buscan mi vida.\n" },
+    { "insert": "Que sean como el tamo ante el viento, cuando el ángel del Señor los acose.\n" },
+    { "insert": "Que su camino sea oscuro y resbaladizo, cuando el ángel del Señor los persiga.\n" },
+    { "insert": "Porque sin causa me tendieron sus redes, sin motivo cavaron una fosa para mí.\n" },
+    { "insert": "Pero mi alma se alegrará en el Señor y se regocijará en su salvación.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Iudica, Domine, nocentes me; expugna impugnantes me.\n" },
+    { "insert": "Apprehende arma et scutum, et exsurge in adiutorium mihi.\n" },
+    { "insert": "Confundantur et revereantur quaerentes animam meam.\n" },
+    { "insert": "Fiant tamquam pulvis ante faciem venti, et angelus Domini coarctans eos.\n" },
+    { "insert": "Fiat via illorum tenebrae et lubricum, et angelus Domini persequens eos.\n" },
+    { "insert": "Quoniam gratis absconderunt mihi interitum laquei sui.\n" },
+    { "insert": "Anima autem mea exsultabit in Domino, et delectabitur super salutari suo.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Salmo 68: Para dispersar el mal",
+  "load": true,
+  "uid": "salmo_68_victoria",
+  "recomendacion": "Se le conoce como el 'Salmo de la Resurrección' y es extremadamente potente para romper estancamientos espirituales. Se recomienda para limpiar la casa y el espíritu de influencias oscuras, proclamando que ante la presencia de Dios el mal se derrite como la cera ante el fuego.",
+  "contenido": [
+    { "insert": "¡Que Dios se levante! ¡Que sus enemigos se dispersen y huyan de su presencia los que lo odian!\n" },
+    { "insert": "Como el humo se disipa, así sean disipados; como la cera se derrite ante el fuego.\n" },
+    { "insert": "Así perezcan los impíos ante la presencia de Dios.\n" },
+    { "insert": "Pero que los justos se alegren y exulten, y salten de gozo ante el Señor.\n" },
+    { "insert": "Cantad a Dios, celebrad su nombre, abrid paso al que cabalga sobre las nubes.\n" },
+    { "insert": "Él es Padre de los huérfanos y protector de las viudas.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Exsurgat Deus, et dissipentur inimici eius; et fugiant, qui oderunt eum, a facie eius.\n" },
+    { "insert": "Sicut deficit fumus, deficiant; sicut fluit cera a facie ignis.\n" },
+    { "insert": "Sic pereant peccatores a facie Dei.\n" },
+    { "insert": "Et iusti epulentur et exsultent in conspectu Dei, et delectentur in laetitia.\n" },
+    { "insert": "Cantate Deo, psallite nomini eius; iter facite ei, qui ascendit super occasum.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Salmo 140: Contra acechanzas ocultas",
+  "load": true,
+  "uid": "salmo_140_proteccion",
+  "recomendacion": "Utilizado tradicionalmente para protección contra calumnias, chismes y trabajos de brujería hechos a través de la palabra. Se recomienda cuando sospechas que hay personas tratando de tenderte trampas legales o personales mediante el engaño.",
+  "contenido": [
+    { "insert": "Líbrame, Señor, del hombre malvado; guárdame del hombre violento.\n" },
+    { "insert": "Que proyectan maldades en su corazón y cada día provocan contiendas.\n" },
+    { "insert": "Afilan su lengua como la de la serpiente; veneno de áspid hay bajo sus labios.\n" },
+    { "insert": "Presérvame, Señor, de las manos del impío; no permitas que sus planes prosperen.\n" },
+    { "insert": "Sé que el Señor hará justicia al afligido y defenderá el derecho de los pobres.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Eripe me, Domine, ab homine malo; a viro iniquo libera me.\n" },
+    { "insert": "Qui cogitaverunt malitias in corde, tota die constituebant proelia.\n" },
+    { "insert": "Acuerunt linguas suas sicut serpentis; venenum aspidum sub labiis eorum.\n" },
+    { "insert": "Custodi me, Domine, de manu peccatoris; et ab hominibus iniquis eripe me.\n" },
+    { "insert": "Quia cognovi quia faciet Dominus iudicium inopis, et vindictam pauperum.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Salmo 70: Auxilio rápido contra el mal",
+  "load": true,
+  "uid": "salmo_70_socorro",
+  "recomendacion": "Es la oración de urgencia por excelencia. Se conoce por ser la apertura de muchas horas de oración en la Iglesia ('Dios mío, ven en mi auxilio'). Se recomienda rezarla en momentos de tentación fuerte, peligro inminente o cuando sientas que las fuerzas del mal te están acorralando y necesitas una intervención divina inmediata.",
+  "contenido": [
+    { "insert": "¡Oh Dios, ven en mi auxilio; Señor, date prisa en socorrerme!\n" },
+    { "insert": "Queden avergonzados y confundidos los que buscan mi vida.\n" },
+    { "insert": "Retrocedan y sean humillados los que desean mi mal.\n" },
+    { "insert": "Sean vergonzosamente rechazados los que se burlan de mí.\n" },
+    { "insert": "Pero alégrense y regocíjense en Ti todos los que Te buscan.\n" },
+    { "insert": "Y digan siempre los que aman Tu salvación: '¡Engrandecido sea Dios!'.\n" },
+    { "insert": "Yo soy pobre y necesitado; ¡oh Dios, ven pronto a mí!\n" },
+    { "insert": "Tú eres mi ayuda y mi libertador; ¡Señor, no tardes!\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Deus, in adiutorium meum intende; Domine, ad adiuvandum me festina.\n" },
+    { "insert": "Confundantur et revereantur, qui quaerunt animam meam.\n" },
+    { "insert": "Avertantur retrorsum et erubescant, qui volunt mihi mala.\n" },
+    { "insert": "Avertantur statim erubescentes, qui dicunt mihi: 'Euge, euge!'.\n" },
+    { "insert": "Exsultent et laetentur in te omnes qui quaerunt te.\n" },
+    { "insert": "Et dicant semper: 'Magnificetur Dominus', qui diligunt salutare tuum.\n" },
+    { "insert": "Ego vero egenus et pauper sum; Deus, festina ad me.\n" },
+    { "insert": "Adiutor meus et liberator meus es tu; Domine, ne moreris.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Oración al Justo Juez",
+  "load": true,
+  "uid": "oracion_justo_juez",
+  "recomendacion": "Esta oración se basa en la figura de Jesús como el Juez Supremo y Justo. Es mundialmente conocida por ser un 'escudo' invisible. Se recomienda para personas que enfrentan juicios legales injustos, para protección contra enemigos armados, asaltos y para librarse de prisiones tanto físicas como espirituales. Se dice que 'ojos tengan y no me vean, manos tengan y no me toquen'.",
+  "contenido": [
+    { "insert": "¡Oh Justo Juez!, Rey de reyes y Señor de señores, que siempre haces justicia.\n" },
+    { "insert": "Hijo del Eterno Padre, Dios y Hombre verdadero, que naciste de María Virgen.\n" },
+    { "insert": "Justo Juez, te pido que me libres de mis enemigos visibles e invisibles.\n" },
+    { "insert": "Que el manto de la Santísima Trinidad me cubra y su sombra me proteja.\n" },
+    { "insert": "Que los ojos de mis enemigos no me vean, que sus pies no me alcancen,\n" },
+    { "insert": "que sus manos no me toquen y que sus armas no me hieran.\n" },
+    { "insert": "Si tienen ojos, no me vean; si tienen manos, no me tienten;\n" },
+    { "insert": "si tienen oídos, no me oigan; si tienen lengua, no me hablen.\n" },
+    { "insert": "Justo Juez, acompáñame en mi camino y líbrame de todo mal. Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "O Iuste Iudex, Rex regum et Dominus dominantium, qui semper iustitiam facis.\n" },
+    { "insert": "Filius Aeterni Patris, Deus et Homo verus, natus de Maria Virgine.\n" },
+    { "insert": "Iuste Iudex, rogo Te ut me liberes ab inimicis meis visibilis et invisibilis.\n" },
+    { "insert": "Chlamys Sanctissimae Trinitatis me tegat et umbra eius me protegat.\n" },
+    { "insert": "Oculi inimicorum meorum non me videant, pedes eorum non me adsequantur,\n" },
+    { "insert": "manus eorum non me tangant et arma eorum non me vulnerent.\n" },
+    { "insert": "Si oculos habent, non videant; si manus habent, non temptent;\n" },
+    { "insert": "si aures habent, non audiant; si linguam habent, non loquantur.\n" },
+    { "insert": "Iuste Iudex, veni mecum in via mea et ab omni malo libera me. Amen.\n" }
+  ]
+},
+{
+  "title": "Nehemías 4, 4: Oración de Retorno (Rebote)",
+  "load": true,
+  "uid": "nehemias_4_4",
+  "recomendacion": "Se le conoce como la oración del 'rebote' o retorno. Nehemías la lanzó cuando sus enemigos (Sanbalat y Tobías) intentaban intimidarlo. Se recomienda usarla cuando sientas desprecio o burlas de personas que quieren verte fracasar, pidiendo que ese mismo desprecio regrese a sus propias cabezas y que sus planes se vuelvan contra ellos.",
+  "contenido": [
+    { "insert": "¡Oye, Dios nuestro, que somos objeto de desprecio!\n" },
+    { "insert": "Vuelve el insulto de ellos sobre su propia cabeza,\n" },
+    { "insert": "y entrégalos por despojo en la tierra de su cautiverio.\n" },
+    { "insert": "No cubras su iniquidad, ni su pecado sea borrado delante de tu rostro.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Exaudi, Deus noster, quia facti sumus despectui!\n" },
+    { "insert": "Converte opprobrium eorum in caput eorum,\n" },
+    { "insert": "et da eos in praedam in terra captivitatis.\n" },
+    { "insert": "Ne operias iniquitatem eorum, et peccatum eorum coram facie tua non deleatur.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Isaías 54, 17: El Escudo contra Armas",
+  "load": true,
+  "uid": "isaias_54_17",
+  "recomendacion": "Es la promesa de inmunidad espiritual por excelencia. Se conoce como la 'sentencia de nulidad' contra cualquier mal. Se recomienda declararla con voz firme cuando sientas que están tramando algo en tu contra, ya sea un arma física, un hechizo o una calumnia, confiando en que ninguna 'herramienta' del mal puede prosperar contra un hijo de Dios.",
+  "contenido": [
+    { "insert": "Ninguna arma forjada contra ti prosperará,\n" },
+    { "insert": "y condenarás toda lengua que se levante contra ti en juicio.\n" },
+    { "insert": "Esta es la herencia de los siervos del Señor,\n" },
+    { "insert": "y su salvación de mí vendrá, dice el Señor.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Omnis vasa, quae ficta sunt contra te, non dirigentur;\n" },
+    { "insert": "et omnem linguam resistentem tibi in iudicio iudicabis.\n" },
+    { "insert": "Haec est hereditas servorum Domini,\n" },
+    { "insert": "et iustitia eorum apud me est, dicit Dominus.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Salmo 59: Contra enemigos ocultos",
+  "load": true,
+  "uid": "salmo_59_proteccion",
+  "recomendacion": "David escribió este salmo cuando su casa estaba vigilada para ser asesinado. Se conoce como el salmo del 'muro de fuego'. Se recomienda para anular vigilancias, espionajes o personas que están esperando que des un paso en falso para destruirte. Pide a Dios que los disperse con su poder.",
+  "contenido": [
+    { "insert": "Líbrame de mis enemigos, oh Dios mío; ponme a salvo de los que se levantan contra mí.\n" },
+    { "insert": "Líbrame de los que cometen iniquidad y sálvame de los hombres sanguinarios.\n" },
+    { "insert": "Porque, mira, han puesto acechanza contra mi vida; se han juntado contra mí los poderosos.\n" },
+    { "insert": "Dios mío, fuerza mía, a ti cantaré; porque Dios es mi amparo, el Dios de mi misericordia.\n" },
+    { "insert": "Dispérsalos con tu poder y humíllalos, oh Señor, escudo nuestro.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Eripe me de inimicis meis, Deus meus, et ab insurgentibus in me libera me.\n" },
+    { "insert": "Eripe me de operantibus iniquitatem et de viris sanguinum salva me.\n" },
+    { "insert": "Quia ecce occupaverunt animam meam; irruerunt in me fortes.\n" },
+    { "insert": "Fortitudo mea, ad te aspiciam, quia Deus susceptor meus es, Deus misericordia mea.\n" },
+    { "insert": "Disperge illos in virtute tua et depone eos, protector meus, Domine.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "María la que desata los nudos",
+  "load": true,
+  "uid": "oracion_desata_nudos",
+  "recomendacion": "Es la oración para resolver problemas que parecen no tener solución. Se conoce por su eficacia para deshacer las 'ataduras' de la brujería o de los vicios. Se recomienda cuando sientas que tu vida está estancada, que por más que te esfuerzas los caminos están cerrados por envidias o malas voluntades.",
+  "contenido": [
+    { "insert": "Santa María, llena de la presencia de Dios, tú que desatas los nudos que aprietan nuestra vida.\n" },
+    { "insert": "Toma en tus manos el nudo de mi situación (decir el problema) y desátalo por tu amor.\n" },
+    { "insert": "Desata los nudos de las mentiras, de los odios y de las opresiones.\n" },
+    { "insert": "Que por tu intercesión seamos libres de toda confusión y maldad.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Sancta Maria, Dei praesentia plena, quae nodos vitam nostram constringentes dissolvis.\n" },
+    { "insert": "In manus tuas nodum status mei recipe et amore tuo solve.\n" },
+    { "insert": "Solve nodos mendaciorum, odiorum et oppressionum.\n" },
+    { "insert": "Ut te intercedente, ab omni confusione et malitia liberi simus.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Salmo 109: Contra la maldad de la lengua",
+  "load": true,
+  "uid": "salmo_109_contra_maldicion",
+  "recomendacion": "Es el salmo de defensa más radical contra calumniadores y personas que usan la palabra para destruir. Se conoce como el salmo del 'retorno de la maldad'. Se recomienda rezarlo solo en casos de ataques graves e injustos, pidiendo que Dios actúe como juez y que las maldiciones lanzadas contra ti pierdan todo su efecto y vuelvan a su origen.",
+  "contenido": [
+    { "insert": "¡Oh Dios de mi alabanza, no calles! Porque bocas de impíos y de engañadores se han abierto contra mí.\n" },
+    { "insert": "Me han hablado con lengua mentirosa y me han rodeado con palabras de odio.\n" },
+    { "insert": "En pago de mi amor me han sido adversarios, pero yo oro.\n" },
+    { "insert": "Sea su oración para pecado y que el mal que amaron les sobrevenga.\n" },
+    { "insert": "Porque ellos no se acordaron de hacer misericordia, sino que persiguieron al afligido.\n" },
+    { "insert": "Pero Tú, Señor, mi Dueño, actúa a mi favor por amor de tu Nombre; líbrame por tu bondad.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Deus laudem meam ne tacueris, quia os peccatoris et os dolosi super me apertum est.\n" },
+    { "insert": "Locuti sunt adversum me lingua dolosa, et sermonibus odii circumdederunt me.\n" },
+    { "insert": "Pro eo ut me diligerent, detrahebant mihi; ego autem orabam.\n" },
+    { "insert": "Fiant dies eius pauci, et episcopatum eius accipiat alter.\n" },
+    { "insert": "Dilexit maledictionem, et veniet ei; et noluit benedictionem, et elongabitur ab eo.\n" },
+    { "insert": "Et Tu, Domine, fac mecum propter nomen tuum, quia suavis est misericordia tua.\n" },
+    { "insert": "Amen.\n" }
+  ]
+},
+{
+  "title": "Salmo 121: Tu Guardián",
+  "load": true,
+  "uid": "salmo_121_guardian",
+  "recomendacion": "Conocido como el 'Canto de las Subidas' o el salmo del viajero. Se conoce por la promesa de que Dios no duerme mientras te cuida. Se recomienda para protección en viajes, mudanzas o simplemente para dormir con paz, sabiendo que el Señor es tu sombra protectora a tu derecha y que Él guarda tu entrada y tu salida.",
+  "contenido": [
+    { "insert": "Levanto mis ojos a los montes: ¿de dónde me vendrá el auxilio?\n" },
+    { "insert": "Mi auxilio viene del Señor, que hizo el cielo y la tierra.\n" },
+    { "insert": "No permitirá que resbale tu pie, ni se dormirá tu guardián.\n" },
+    { "insert": "No se duerme ni reposa el guardián de Israel.\n" },
+    { "insert": "El Señor es tu guardián, el Señor es tu sombra a tu mano derecha.\n" },
+    { "insert": "De día el sol no te hará daño, ni la luna de noche.\n" },
+    { "insert": "El Señor te guarda de todo mal, Él guarda tu alma.\n" },
+    { "insert": "El Señor guarda tu salida y tu entrada, desde ahora y para siempre.\n" },
+    { "insert": "Amén.\n" }
+  ],
+  "contenidolatin": [
+    { "insert": "Levavi oculos meos in montes, unde veniet auxilium mihi.\n" },
+    { "insert": "Auxilium meum a Domino, qui fecit caelum et terram.\n" },
+    { "insert": "Non det in commotionem pedem tuum, neque dormitet qui custodit te.\n" },
+    { "insert": "Ecce non dormitabit neque dormiet qui custodit Israel.\n" },
+    { "insert": "Dominus custodit te, Dominus protectio tua super manum dexteram tuam.\n" },
+    { "insert": "Per diem sol non uret te, neque luna per noctem.\n" },
+    { "insert": "Dominus custodit te ab omni malo, custodiat animam tuam Dominus.\n" },
+    { "insert": "Dominus custodiat introitum tuum et exitum tuum, ex hoc nunc et usque in saeculum.\n" },
+    { "insert": "Amen.\n" }
+  ]
+}
+
+
 ]
 
 
