@@ -1894,7 +1894,7 @@
   "uid": "oracion_regina_coeli",
   "recomendacion": "Es el himno de júbilo por la Resurrección de Cristo. Se reza en lugar del Ángelus durante el Tiempo de Pascua (desde el Domingo de Resurrección hasta Pentecostés). Se recomienda para celebrar con alegría la victoria de Jesús sobre la muerte junto a la Virgen María.",
   "contenido": [
-    { "insert": "V: El que dirige; R: Respondemos todos.\n\n" },
+    { "insert": "V: El que dirige; \nR: Respondemos todos.\n\n" },
     { "insert": "V// Reina del cielo, alégrate, aleluya.\n" },
     { "insert": "R// Porque el Señor, a quien has llevado en tu vientre, aleluya.\n", "attributes": { "bold": true } },
     { "insert": "\nV// Ha resucitado según su palabra, aleluya.\n" },
@@ -1905,7 +1905,7 @@
     { "insert": "R// Oh Dios, que por la resurrección de tu Hijo has llenado el mundo de alegría, concédenos llegar a los gozos de la vida eterna. Amén.\n", "attributes": { "bold": true } }
   ],
   "contenidolatin": [
-    { "insert": "V: Qui dirigit; R: Respondemus omnes.\n\n" },
+    { "insert": "V: Qui dirigit; \nR: Respondemus omnes.\n\n" },
     { "insert": "V// Regina caeli, laetare, alleluia.\n" },
     { "insert": "R// Quia quem meruisti portare, alleluia.\n", "attributes": { "bold": true } },
     { "insert": "\nV// Resurrexit, sicut dixit, alleluia.\n" },
