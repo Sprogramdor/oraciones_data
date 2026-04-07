@@ -1,13 +1,13 @@
 [
     {
-      "uid": "jan-01-madre-dios",
+      "uid": "mary_mother_of_god",
       "titulo": "Santa María, Madre de Dios",
       "descrip": "Solemnidad que celebra la maternidad divina de María sobre la naturaleza humana de Jesús. Es la fiesta mariana más antigua del rito romano y marca el inicio del año bajo su protección.Solemnidad que celebra la maternidad divina de María sobre la naturaleza humana de Jesús. Es la fiesta mariana más antigua del rito romano y marca el inicio del año bajo su protección.Solemnidad que celebra la maternidad divina de María sobre la naturaleza humana de Jesús. Es la fiesta mariana más antigua del rito romano y marca el inicio del año bajo su protección.Solemnidad que celebra la maternidad divina de María sobre la naturaleza humana de Jesús. Es la fiesta mariana más antigua del rito romano y marca el inicio del año bajo su protección.Solemnidad que celebra la maternidad divina de María sobre la naturaleza humana de Jesús. Es la fiesta mariana más antigua del rito romano y marca el inicio del año bajo su protección.",
       "mes": "Enero",
       "dia": 1
     },
     {
-      "uid": "jan-06-epifania",
+      "uid": "epiphany_of_the_lord",
       "titulo": "Epifanía del Señor",
       "descrip": "Conmemora la manifestación de Jesús a los pueblos paganos representados por los Reyes Magos. Simboliza que la salvación de Cristo está abierta a todas las naciones de la tierra sin distinción.",
       "mes": "Enero",
@@ -25,7 +25,7 @@
    
     
     {
-      "uid": "feb-02-candelaria",
+      "uid": "presentation_of_the_lord",
       "titulo": "Presentación del Señor",
       "descrip": "Conocida como la Candelaria, celebra cuando Jesús fue llevado al Templo. Simeón lo proclama como la Luz del mundo, por lo que se bendicen velas que simbolizan la claridad de la fe.",
       "mes": "Febrero",
@@ -39,56 +39,56 @@
       "dia": 9
     },
     {
-      "uid": "mov-miercoles-ceniza",
+      "uid": "ash_wednesday",
       "titulo": "Miércoles de Ceniza",
       "descrip": "Inicio del tiempo de Cuaresma. Se impone la ceniza como signo de humildad y deseo de conversión, recordándonos nuestra finitud y la llamada a vivir el Evangelio con mayor entrega.",
       "mes": "Febrero",
       "dia": 0
     },
     {
-      "uid": "mar-19-san-jose",
+      "uid": "joseph_spouse_of_mary",
       "titulo": "San José, Esposo de la Virgen",
       "descrip": "Solemnidad del custodio de la Sagrada Familia y patrono universal de la Iglesia. Se honra al hombre justo que protegió la infancia de Jesús y es modelo de padre y trabajador.",
       "mes": "Marzo",
       "dia": 19
     },
     {
-      "uid": "mar-25-anunciacion",
+      "uid": "annunciation_of_the_lord",
       "titulo": "La Anunciación del Señor",
       "descrip": "Celebra el momento en que el Verbo de Dios se hizo carne en el seno de María tras el anuncio del ángel. Es el misterio de la Encarnación que da inicio a nuestra redención.",
       "mes": "Marzo",
       "dia": 25
     },
     {
-      "uid": "mov-domingo-ramos",
+      "uid": "palm_sunday_of_the_passion_of_the_lord",
       "titulo": "Domingo de Ramos",
       "descrip": "Inicio de la Semana Santa. Conmemora la entrada triunfal de Jesús en Jerusalén, donde es aclamado con ramos de olivo y palmas como el Mesías enviado por Dios.",
       "mes": "Abril",
       "dia": 0
     },
     {
-      "uid": "mov-jueves-santo",
+      "uid": "holy_thursday",
       "titulo": "Jueves Santo",
       "descrip": "Cena del Señor y lavatorio de pies. Se instituye la Eucaristía y el Sacerdocio, celebrando el mandamiento del amor fraterno antes de la Pasión de Cristo.",
       "mes": "Abril",
       "dia": 0
     },
     {
-      "uid": "mov-viernes-santo",
+      "uid": "friday_of_the_passion_of_the_lord",
       "titulo": "Viernes Santo",
       "descrip": "Día de luto y ayuno en el que se recuerda la crucifixión y muerte de Jesús. En Ecuador destaca la multitudinaria procesión de Jesús del Gran Poder en Quito.",
       "mes": "Abril",
       "dia": 0
     },
     {
-      "uid": "mov-domingo-pascua",
+      "uid": "easter_sunday",
       "titulo": "Domingo de Resurrección",
       "descrip": "La fiesta más grande de la cristiandad. Celebramos que Jesús venció a la muerte y salió glorioso del sepulcro, dándonos la esperanza cierta de la vida eterna y la resurrección.",
       "mes": "Abril",
       "dia": 0
     },
     {
-      "uid": "mov-divina-misericordia",
+      "uid": "divine_mercy_sunday",
       "titulo": "Domingo de la Divina Misericordia",
       "descrip": "Celebrada el domingo siguiente a la Pascua. Se basa en las revelaciones de Santa Faustina Kowalska sobre el amor infinito de Dios que desea perdonar a toda la humanidad arrepentida.",
       "mes": "Abril",
@@ -116,21 +116,21 @@
       "dia": 26
     },
     {
-      "uid": "mov-pentecostes",
+      "uid": "pentecost_sunday",
       "titulo": "Pentecostés",
       "descrip": "Descenso del Espíritu Santo sobre los apóstoles y la Virgen María. Se considera el nacimiento de la Iglesia, cuando los discípulos reciben la fuerza para anunciar el Evangelio a todo el mundo.",
       "mes": "Junio",
       "dia": 0
     },
     {
-      "uid": "mov-corpus-christi",
+      "uid": "most_holy_body_and_blood_of_christ",
       "titulo": "Corpus Christi",
       "descrip": "Solemnidad del Cuerpo y la Sangre de Cristo. En Ecuador se vive con gran colorido en Pujilí y Cuenca, donde se mezclan tradiciones religiosas con el agradecimiento por las cosechas.",
       "mes": "Junio",
       "dia": 0
     },
     {
-      "uid": "mov-sagrado-corazon",
+      "uid": "most_sacred_heart_of_jesus",
       "titulo": "Sagrado Corazón de Jesús",
       "descrip": "Solemnidad que honra el corazón de Cristo como símbolo de su amor desbordante por la humanidad. Ecuador fue el primer país del mundo en consagrarse oficialmente a esta devoción.",
       "mes": "Junio",
@@ -228,7 +228,7 @@
       "dia": 21
     },
     {
-      "uid": "mov-cristo-rey",
+      "uid": "our_lord_jesus_christ_king_of_the_universe",
       "titulo": "Cristo Rey del Universo",
       "descrip": "Cierre del año litúrgico. Proclamamos el reinado de amor, justicia y paz de Jesús sobre toda la creación y en el corazón de cada creyente.",
       "mes": "Noviembre",
